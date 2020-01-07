@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTGCardCreator", "MTGCardCreator\MTGCardCreator.csproj", "{2566CC1D-67EA-4320-A796-263D92F09DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2566CC1D-67EA-4320-A796-263D92F09DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2566CC1D-67EA-4320-A796-263D92F09DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2566CC1D-67EA-4320-A796-263D92F09DFD}.Debug|x64.ActiveCfg = Debug|x64
+		{2566CC1D-67EA-4320-A796-263D92F09DFD}.Debug|x64.Build.0 = Debug|x64
+		{2566CC1D-67EA-4320-A796-263D92F09DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2566CC1D-67EA-4320-A796-263D92F09DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2566CC1D-67EA-4320-A796-263D92F09DFD}.Release|x64.ActiveCfg = Release|x64
+		{2566CC1D-67EA-4320-A796-263D92F09DFD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89ED0379-CDFC-4363-AB3B-3FA9EB35141A}
+	EndGlobalSection
+EndGlobal

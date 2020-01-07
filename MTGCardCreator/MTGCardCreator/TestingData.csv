@@ -1,0 +1,1151 @@
+﻿artist,convertedManaCost,loyalty,manaCost,name,power,prices/paper/2019-07-21,rarity,text,toughness,type
+Aaron Miller,3,,{2}{W},Haazda Officer,3,0.25,common,"When Haazda Officer enters the battlefield, target creature you control gets +1/+1 until end of turn.",2,Creature — Human Soldier
+Aaron Miller,5,,{3}{G}{G},Shared Summons,,0.5,rare,"Search your library for up to two creature cards with different names, reveal them, put them into your hand, then shuffle your library.",,Instant
+Aaron Miller,1,,{B},Dreadmalkin,1,0.2,uncommon,"Menace (This creature can't be blocked except by two or more creatures.)
+{2}{B}, Sacrifice another creature or planeswalker: Put two +1/+1 counters on Dreadmalkin.",1,Creature — Zombie Cat
+Aaron Miller,3,,{3},Iron Bully,1,0.15,common,"Menace (This creature can't be blocked except by two or more creatures.)
+When Iron Bully enters the battlefield, put a +1/+1 counter on target creature.",1,Artifact Creature — Golem
+Aaron Miller,5,,{4}{U},Totally Lost,,0.14,common,Put target nonland permanent on top of its owner's library.,,Instant
+Adam Paquette,0,,,Bloodfell Caves,,0.16,common,"Bloodfell Caves enters the battlefield tapped.
+When Bloodfell Caves enters the battlefield, you gain 1 life.
+{T}: Add {B} or {R}.",,Land
+Adam Paquette,6,,{4}{U}{U},Flood of Tears,,1.18,rare,"Return all nonland permanents to their owners' hands. If you return four or more nontoken permanents you control this way, you may put a permanent card from your hand onto the battlefield.",,Sorcery
+Adam Paquette,0,,,Forest,,0.15,common,({T}: Add {G}.),,Basic Land — Forest
+Adam Paquette,0,,,Mountain,,0.17,common,({T}: Add {R}.),,Basic Land — Mountain
+Adam Paquette,0,,,Temple of Epiphany,,1.92,rare,"Temple of Epiphany enters the battlefield tapped.
+When Temple of Epiphany enters the battlefield, scry 1.
+{T}: Add {U} or {R}.",,Land
+Adam Paquette,0,,,Temple of Silence,,1.71,rare,"Temple of Silence enters the battlefield tapped.
+When Temple of Silence enters the battlefield, scry 1.
+{T}: Add {W} or {B}.",,Land
+Adam Paquette,4,,{3}{R},Demolish,,0.15,common,Destroy target artifact or land.,,Sorcery
+Adam Paquette,0,,,Interplanar Beacon,,0.3,uncommon,"Whenever you cast a planeswalker spell, you gain 1 life.
+{T}: Add {C}.
+{1}, {T}: Add two mana of different colors. Spend this mana only to cast planeswalker spells.",,Land
+Adam Paquette,0,,,Island,,0.19,common,({T}: Add {U}.),,Basic Land — Island
+Adam Paquette,0,,,Karn's Bastion,,2.28,rare,"{T}: Add {C}.
+{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",,Land
+Adam Paquette,0,,,Mountain,,0.14,common,({T}: Add {R}.),,Basic Land — Mountain
+Adam Paquette,8,,{6}{W}{W},Parhelion II,5,0.35,rare,"Flying, first strike, vigilance
+Whenever Parhelion II attacks, create two 4/4 white Angel creature tokens with flying and vigilance that are attacking.
+Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)",5,Legendary Artifact — Vehicle
+Adam Paquette,0,,,Plains,,0.1,common,({T}: Add {W}.),,Basic Land — Plains
+Adam Paquette,4,,{3}{W},Ravnica at War,,0.35,rare,Exile all multicolored permanents.,,Sorcery
+Adam Paquette,0,,,Simic Guildgate,,0.2,common,"Simic Guildgate enters the battlefield tapped.
+{T}: Add {G} or {U}.",,Land — Gate
+Adam Paquette,4,,{2}{R}{W},Solar Blaze,,0.37,rare,Each creature deals damage to itself equal to its power.,,Sorcery
+Adam Paquette,0,,,Swamp,,0.12,common,({T}: Add {B}.),,Basic Land — Swamp
+Alayna Danner,3,,{3},Diamond Knight,1,0.2,uncommon,"Vigilance (Attacking doesn't cause this creature to tap.)
+As Diamond Knight enters the battlefield, choose a color.
+Whenever you cast a spell of the chosen color, put a +1/+1 counter on Diamond Knight.",1,Artifact Creature — Knight
+Alayna Danner,2,,{2},Prismite,2,0.15,common,{2}: Add one mana of any color.,1,Artifact Creature — Golem
+Alayna Danner,2,,{2},Prismite,2,0.15,common,{2}: Add one mana of any color.,1,Artifact Creature — Golem
+Alayna Danner,2,,{1}{G},Return to Nature,,0.16,common,"Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Exile target card from a graveyard.",,Instant
+Aleksi Briclot,2,,{1}{R},Chandra's Pyrohelix,,0.14,common,Chandra's Pyrohelix deals 2 damage divided as you choose among one or two targets.,,Instant
+Aleksi Briclot,4,6,{2}{R/W}{R/W},"Nahiri, Storm of Stone",,0.25,uncommon,"As long as it's your turn, creatures you control have first strike and equip abilities you activate cost {1} less to activate.
+−X: Nahiri, Storm of Stone deals X damage to target tapped creature.",,Legendary Planeswalker — Nahiri
+Aleksi Briclot,1,,{R},Samut's Sprint,,0.16,common,Target creature gets +2/+1 and gains haste until end of turn. Scry 1.,,Instant
+Aleksi Briclot,4,5,{2}{R/G}{R/G},"Samut, Tyrant Smasher",,0.25,uncommon,"Creatures you control have haste.
+[−1]: Target creature gets +2/+1 and gains haste until end of turn. Scry 1.",,Legendary Planeswalker — Samut
+Alex Konstad,1,,{B},Knight of the Ebon Legion,1,2.95,rare,"{2}{B}: Knight of the Ebon Legion gets +3/+3 and gains deathtouch until end of turn.
+At the beginning of your end step, if a player lost 4 or more life this turn, put a +1/+1 counter on Knight of the Ebon Legion. (Damage causes loss of life.)",2,Creature — Vampire Knight
+Alex Konstad,2,,{1}{U},Augur of Bolas,1,0.23,uncommon,"When Augur of Bolas enters the battlefield, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",3,Creature — Merfolk Wizard
+Allen Williams,3,,{1}{B}{B},Murder,,0.17,common,Destroy target creature.,,Instant
+Anastasia Ovchinnikova,3,,{2}{U},Cloudkin Seer,2,0.15,common,"Flying
+When Cloudkin Seer enters the battlefield, draw a card.",1,Creature — Elemental Wizard
+Andreas Rocha,0,,,Island,,0.15,common,({T}: Add {U}.),,Basic Land — Island
+Andreas Rocha,0,,,Mountain,,0.18,common,({T}: Add {R}.),,Basic Land — Mountain
+Andreas Rocha,0,,,Plains,,0.16,common,({T}: Add {W}.),,Basic Land — Plains
+Anna Podedworna,2,,{1}{R},Goblin Bird-Grabber,2,0.15,common,{R}: Goblin Bird-Grabber gains flying until end of turn. Activate this ability only if you control a creature with flying.,1,Creature — Goblin
+Anna Podedworna,3,,{2}{R},Nimble Birdsticker,2,1.25,common,Reach (This creature can block creatures with flying.),3,Creature — Goblin
+Anna Podedworna,3,,{1}{U}{U},Phantom Warrior,2,3.98,common,Phantom Warrior can't be blocked.,2,Creature — Illusion Warrior
+Anna Podedworna,1,,{B},Vampire of the Dire Moon,1,0.32,uncommon,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)",1,Creature — Vampire
+Anna Steinbauer,3,4,{1}{R}{R},"Chandra, Acolyte of Flame",,6.68,rare,"[0]: Put a loyalty counter on each red planeswalker you control.
+[0]: Create two 1/1 red Elemental creature tokens. They gain haste. Sacrifice them at the beginning of the next end step.
+[−2]: You may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard. If that card would be put into your graveyard this turn, exile it instead.",,Legendary Planeswalker — Chandra
+Anna Steinbauer,4,5,{3}{R},"Chandra, Novice Pyromancer",,0.32,uncommon,"[+1]: Elementals you control get +2/+0 until end of turn.
+[−1]: Add {R}{R}.
+[−2]: Chandra, Novice Pyromancer deals 2 damage to any target.",,Legendary Planeswalker — Chandra
+Anna Steinbauer,5,,{4}{B},Epicure of Blood,4,0.15,common,"Whenever you gain life, each opponent loses 1 life.",4,Creature — Vampire
+Anna Steinbauer,2,,{1}{B},Duskmantle Operative,2,0.14,common,Duskmantle Operative can't be blocked by creatures with power 4 or greater.,2,Creature — Human Rogue
+Anna Steinbauer,4,4,{1}{U}{U}{U},"Jace, Wielder of Mysteries",,1.99,rare,"If you would draw a card while your library has no cards in it, you win the game instead.
+[+1]: Target player puts the top two cards of their library into their graveyard. Draw a card.
+[−8]: Draw seven cards. Then if your library has no cards in it, you win the game.",,Legendary Planeswalker — Jace
+Anna Steinbauer,3,3,{2}{G},"Jiang Yanggu, Wildcrafter",,0.3,uncommon,"Each creature you control with a +1/+1 counter on it has ""{T}: Add one mana of any color.""
+[−1]: Put a +1/+1 counter on target creature.",,Legendary Planeswalker — Yanggu
+Anna Steinbauer,4,5,{2}{B/G}{B/G},"Vraska, Swarm's Eminence",,0.26,uncommon,"Whenever a creature you control with deathtouch deals damage to a player or planeswalker, put a +1/+1 counter on that creature.
+[−2]: Create a 1/1 black Assassin creature token with deathtouch and ""Whenever this creature deals damage to a planeswalker, destroy that planeswalker.""",,Legendary Planeswalker — Vraska
+Anthony Palumbo,6,,{4}{U}{U},Captivating Gyre,,0.22,uncommon,Return up to three target creatures to their owners' hands.,,Sorcery
+Anthony Palumbo,4,,{3}{B},Dread Presence,3,1.19,rare,"Whenever a Swamp enters the battlefield under your control, choose one —
+• You draw a card and you lose 1 life.
+• Dread Presence deals 2 damage to any target and you gain 2 life.",3,Creature — Nightmare
+Anthony Palumbo,1,,{W},Glaring Aegis,,0.15,common,"Enchant creature
+When Glaring Aegis enters the battlefield, tap target creature an opponent controls.
+Enchanted creature gets +1/+3.",,Enchantment — Aura
+Antonio José Manzanedo,5,,{3}{B}{G},Moldervine Reclamation,,0.25,uncommon,"Whenever a creature you control dies, you gain 1 life and draw a card.",,Enchantment
+Antonio José Manzanedo,3,,{1}{B}{B},Savage Gorger,1,0.36,common,"Flying
+At the beginning of your end step, if an opponent lost life this turn, put a +1/+1 counter on Savage Gorger. (Damage causes loss of life.)",1,Creature — Vampire
+Babyson Chen & Uzhen Lin,0,,,Island,,0.19,common,({T}: Add {U}.),,Basic Land — Island
+Bastien L. Deharme,2,,{1}{W},Apostle of Purifying Light,2,0.2,uncommon,"Protection from black (This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything black.)
+{2}: Exile target card from a graveyard.",1,Creature — Human Cleric
+Bastien L. Deharme,2,,{W}{B},Cruel Celebrant,1,0.3,uncommon,"Whenever Cruel Celebrant or another creature or planeswalker you control dies, each opponent loses 1 life and you gain 1 life.",2,Creature — Vampire
+Bayard Wu,2,,{1}{R},Marauding Raptor,2,1.44,rare,"Creature spells you cast cost {1} less to cast.
+Whenever another creature enters the battlefield under your control, Marauding Raptor deals 2 damage to it. If a Dinosaur is dealt damage this way, Marauding Raptor gets +2/+0 until end of turn.",3,Creature — Dinosaur
+Bayard Wu,2,,{1}{W},Savannah Sage,2,0.38,common,"When Savannah Sage enters the battlefield, you gain 2 life.",2,Creature — Cat Cleric
+Bayard Wu,2,,{R}{W},Skyknight Vanguard,1,0.2,uncommon,"Flying
+Whenever Skyknight Vanguard attacks, create a 1/1 white Soldier creature token that's tapped and attacking.",2,Creature — Human Knight
+Bayard Wu,3,,{2}{G},Vivien's Crocodile,3,0.3,common,Vivien's Crocodile gets +1/+1 as long as you control a Vivien planeswalker.,3,Creature — Crocodile Spirit
+Bayard Wu,3,,{2}{R},Devouring Hellion,2,0.2,uncommon,"As Devouring Hellion enters the battlefield, you may sacrifice any number of creatures and/or planeswalkers. If you do, it enters with twice that many +1/+1 counters on it.",2,Creature — Hellion
+Bayard Wu,2,,{X}{G}{G},Finale of Devastation,,10.86,mythic,"Search your library and/or graveyard for a creature card with converted mana cost X or less and put it onto the battlefield. If you search your library this way, shuffle it. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn.",,Sorcery
+Ben Maier,4,,{3}{W},Inspiring Captain,3,0.15,common,"When Inspiring Captain enters the battlefield, creatures you control get +1/+1 until end of turn.",3,Creature — Human Knight
+Bram Sels,3,,{2}{W},Steadfast Sentry,3,0.15,common,"Vigilance (Attacking doesn't cause this creature to tap.)
+When Steadfast Sentry dies, put a +1/+1 counter on target creature you control.",2,Creature — Human Soldier
+Bram Sels,2,,{1}{R},Unchained Berserker,1,0.2,uncommon,"Protection from white (This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything white.)
+Unchained Berserker gets +2/+0 as long as it's attacking.",1,Creature — Human Berserker
+Bram Sels,2,,{G}{U},Neoform,,0.45,uncommon,"As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield with an additional +1/+1 counter on it, then shuffle your library.",,Sorcery
+Caio Monteiro,2,,{1}{U},Brineborn Cutthroat,2,0.35,uncommon,"Flash (You may cast this spell any time you could cast an instant.)
+Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on Brineborn Cutthroat.",1,Creature — Merfolk Pirate
+Caio Monteiro,3,,{2}{B},Gorging Vulture,2,0.15,common,"Flying
+When Gorging Vulture enters the battlefield, put the top four cards of your library into your graveyard. You gain 1 life for each creature card put into your graveyard this way.",2,Creature — Bird
+Caio Monteiro,1,,{R},Infuriate,,0.15,common,Target creature gets +3/+2 until end of turn.,,Instant
+Caio Monteiro,2,,{1}{B},Sorcerer of the Fang,1,0.15,common,"{5}{B}, {T}: Sorcerer of the Fang deals 2 damage to target opponent or planeswalker.",3,Creature — Human Wizard
+Carl Critchlow,3,,{2}{G},Loaming Shaman,3,0.23,uncommon,"When Loaming Shaman enters the battlefield, target player shuffles any number of target cards from their graveyard into their library.",2,Creature — Centaur Shaman
+Chase Stone,3,4,{2}{B},"Sorin, Imperious Bloodlord",,15.89,mythic,"[+1]: Target creature you control gains deathtouch and lifelink until end of turn. If it's a Vampire, put a +1/+1 counter on it.
+[+1]: You may sacrifice a Vampire. When you do, Sorin, Imperious Bloodlord deals 3 damage to any target and you gain 3 life.
+[−3]: You may put a Vampire creature card from your hand onto the battlefield.",,Legendary Planeswalker — Sorin
+Chase Stone,4,5,{2}{G}{U},"Tamiyo, Collector of Tales",,2,rare,"Spells and abilities your opponents control can't cause you to discard cards or sacrifice permanents.
+[+1]: Choose a nonland card name, then reveal the top four cards of your library. Put all cards with the chosen name from among them into your hand and the rest into your graveyard.
+[−3]: Return target card from your graveyard to your hand.",,Legendary Planeswalker — Tamiyo
+Chase Stone,6,5,{4}{U}{B},"Tezzeret, Master of the Bridge",,,mythic,"Creature and planeswalker spells you cast have affinity for artifacts. (They cost {1} less to cast for each artifact you control.)
+[+2]: Tezzeret, Master of the Bridge deals X damage to each opponent, where X is the number of artifacts you control. You gain X life.
+[−3]: Return target artifact card from your graveyard to your hand.
+[−8]: Exile the top ten cards of your library. Put all artifact cards from among them onto the battlefield.",,Legendary Planeswalker — Tezzeret
+Chase Stone,3,5,{2}{R},"Tibalt, Rakish Instigator",,0.44,uncommon,"Your opponents can't gain life.
+[−2]: Create a 1/1 red Devil creature token with ""When this creature dies, it deals 1 damage to any target.""",,Legendary Planeswalker — Tibalt
+Chippy,4,,{3}{W},Master Splicer,1,0.2,uncommon,"When Master Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
+Golems you control get +1/+1.",1,Creature — Human Artificer
+Chris Ostrowski,0,,,Blast Zone,,5.15,rare,"Blast Zone enters the battlefield with a charge counter on it.
+{T}: Add {C}.
+{X}{X}, {T}: Put X charge counters on Blast Zone.
+{3}, {T}, Sacrifice Blast Zone: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Blast Zone.",,Land
+Chris Rahn,6,6,{4}{R}{R},"Chandra, Awakened Inferno",,24.98,mythic,"This spell can't be countered.
+[+2]: Each opponent gets an emblem with ""At the beginning of your upkeep, this emblem deals 1 damage to you.""
+[−3]: Chandra, Awakened Inferno deals 3 damage to each non-Elemental creature.
+−X: Chandra, Awakened Inferno deals X damage to target creature or planeswalker. If a permanent dealt damage this way would die this turn, exile it instead.",,Legendary Planeswalker — Chandra
+Chris Rahn,2,,{1}{W},Concordia Pegasus,1,0.25,common,Flying (This creature can't be blocked except by creatures with flying or reach.),3,Creature — Pegasus
+Chris Rahn,2,,{2},Steel Overseer,1,2.5,rare,{T}: Put a +1/+1 counter on each artifact creature you control.,1,Artifact Creature — Construct
+Chris Rahn,3,,{2}{W},Trusted Pegasus,2,1.81,common,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever Trusted Pegasus attacks, target attacking creature without flying gains flying until end of turn.",2,Creature — Pegasus
+Chris Rahn,6,,{4}{R}{R},Volcanic Dragon,4,,uncommon,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)",4,Creature — Dragon
+Chris Rahn,1,,{W},Charmed Stray,1,0.15,common,"Lifelink
+When Charmed Stray enters the battlefield, put a +1/+1 counter on each other creature you control named Charmed Stray.",1,Creature — Cat
+Chris Rahn,3,,{2}{W},Trusted Pegasus,2,0.14,common,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever Trusted Pegasus attacks, target attacking creature without flying gains flying until end of turn.",2,Creature — Pegasus
+Chris Rallis,4,5,{2}{W}{W},"Ajani, Strength of the Pride",,6,mythic,"[+1]: You gain life equal to the number of creatures you control plus the number of planeswalkers you control.
+[−2]: Create a 2/2 white Cat Soldier creature token named Ajani's Pridemate with ""Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.""
+[0]: If you have at least 15 life more than your starting life total, exile Ajani, Strength of the Pride and each artifact and creature your opponents control.",,Legendary Planeswalker — Ajani
+Chris Rallis,3,,{2}{R},Chandra's Spitfire,1,0.23,uncommon,"Flying
+Whenever an opponent is dealt noncombat damage, Chandra's Spitfire gets +3/+0 until end of turn.",3,Creature — Elemental
+Chris Rallis,6,4,{4}{B}{B},"Sorin, Vampire Lord",,,mythic,"[+1]: Up to one target creature gets +2/+0 until end of turn.
+[−2]: Sorin, Vampire Lord deals 4 damage to any target. You gain 4 life.
+[−8]: Until end of turn, each Vampire you control gains ""{T}: Gain control of target creature.""",,Legendary Planeswalker — Sorin
+Chris Rallis,6,3,{4}{G}{G},"Vivien, Nature's Avenger",,,mythic,"[+1]: Put three +1/+1 counters on up to one target creature.
+[−1]: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
+[−6]: Target creature gets +10/+10 and gains trample until end of turn.",,Legendary Planeswalker — Vivien
+Chris Rallis,1,,{W},Gideon's Sacrifice,,0.14,common,Choose a creature or planeswalker you control. All damage that would be dealt this turn to you and permanents you control is dealt to the chosen permanent instead (if it's still on the battlefield).,,Instant
+Chris Rallis,6,6,{4}{B}{B},"Liliana, Dreadhorde General",,16.5,mythic,"Whenever a creature you control dies, draw a card.
+[+1]: Create a 2/2 black Zombie creature token.
+[−4]: Each player sacrifices two creatures.
+[−9]: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest.",,Legendary Planeswalker — Liliana
+Chris Rallis,5,,{3}{B}{B},Massacre Girl,4,0.6,rare,"Menace
+When Massacre Girl enters the battlefield, each other creature gets -1/-1 until end of turn. Whenever a creature dies this turn, each creature other than Massacre Girl gets -1/-1 until end of turn.",4,Legendary Creature — Human Assassin
+Chris Rallis,5,5,{3}{G}{G},"Nissa, Who Shakes the World",,5.69,rare,"Whenever you tap a Forest for mana, add an additional {G}.
+[+1]: Put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with vigilance and haste that's still a land.
+[−8]: You get an emblem with ""Lands you control have indestructible."" Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle your library.",,Legendary Planeswalker — Nissa
+Chris Rallis,3,,{1}{G}{W},Pledge of Unity,,0.22,uncommon,Put a +1/+1 counter on each creature you control. You gain 1 life for each creature you control.,,Instant
+Chris Rallis,3,4,{1}{W}{U},"Teferi, Time Raveler",,15.19,rare,"Each opponent can cast spells only any time they could cast a sorcery.
+[+1]: Until your next turn, you may cast sorcery spells as though they had flash.
+[−3]: Return up to one target artifact, creature, or enchantment to its owner's hand. Draw a card.",,Legendary Planeswalker — Teferi
+Chris Seaman,4,,{2}{U}{U},Drawn from Dreams,,1.03,rare,Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in a random order.,,Sorcery
+Chris Seaman,3,,{3},Icon of Ancestry,,2.26,rare,"As Icon of Ancestry enters the battlefield, choose a creature type.
+Creatures you control of the chosen type get +1/+1.
+{3}, {T}: Look at the top three cards of your library. You may reveal a creature card of the chosen type from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",,Artifact
+Chris Seaman,4,,{2}{R}{R},Keldon Raider,4,0.15,common,"When Keldon Raider enters the battlefield, you may discard a card. If you do, draw a card.",3,Creature — Human Warrior
+Chris Seaman,3,,{2}{U},Winged Words,,0.17,common,"This spell costs {1} less to cast if you control a creature with flying.
+Draw two cards.",,Sorcery
+Chris Seaman,2,,{1}{U},Sky Theater Strix,1,0.14,common,"Flying
+Whenever you cast a noncreature spell, Sky Theater Strix gets +1/+0 until end of turn.",2,Creature — Bird
+Christopher Moeller,4,,{2}{R}{R},Chandra's Outrage,,0.15,common,Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller.,,Instant
+Christopher Moeller,4,,{3}{W},Griffin Protector,2,0.15,common,"Flying
+Whenever another creature enters the battlefield under your control, Griffin Protector gets +1/+1 until end of turn.",3,Creature — Griffin
+Christopher Moeller,2,,{1}{W},Moment of Heroism,,0.15,common,Target creature gets +2/+2 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.),,Instant
+Christopher Rush,2,,{1}{G},Canopy Spider,1,1.16,common,Reach (This creature can block creatures with flying.),3,Creature — Spider
+Cliff Childs,0,,,Island,,0.19,common,({T}: Add {U}.),,Basic Land — Island
+Cliff Childs,0,,,Swamp,,0.18,common,({T}: Add {B}.),,Basic Land — Swamp
+Cliff Childs,0,,,Orzhov Guildgate,,0.17,common,"Orzhov Guildgate enters the battlefield tapped.
+{T}: Add {W} or {B}.",,Land — Gate
+Clint Cearley,4,,{2}{U}{U},Bone to Ash,,0.15,common,"Counter target creature spell.
+Draw a card.",,Instant
+Clint Cearley,5,,{3}{U}{U},Jace's Ruse,,0.42,rare,"Return up to two target creatures to their owner's hand. You may search your library and/or graveyard for a card named Jace, Arcane Strategist, reveal it, and put it into your hand. If you search your library this way, shuffle it.",,Sorcery
+Clover.K,3,5,{2}{R},"Tibalt, Rakish Instigator",,,uncommon,"Your opponents can't gain life.
+[−2]: Create a 1/1 red Devil creature token with ""When this creature dies, it deals 1 damage to any target.""",,Legendary Planeswalker — Tibalt
+Cole Eastburn,1,,{B},Bone Splinters,,0.15,common,"As an additional cost to cast this spell, sacrifice a creature.
+Destroy target creature.",,Sorcery
+Craig J Spearing,5,,{3}{G}{G},Overcome,,0.22,uncommon,Creatures you control get +2/+2 and gain trample until end of turn. (They can deal excess combat damage to the player or planeswalker they're attacking.),,Sorcery
+Craig J Spearing,2,,{1}{R},Heartfire,,0.15,common,"As an additional cost to cast this spell, sacrifice a creature or planeswalker.
+Heartfire deals 4 damage to any target.",,Instant
+Craig J Spearing,2,,{1}{B},Lazotep Reaver,1,0.15,common,"When Lazotep Reaver enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",2,Creature — Zombie Beast
+Cristi Balanescu,3,,{2}{W},Battalion Foot Soldier,2,0.15,common,"When Battalion Foot Soldier enters the battlefield, you may search your library for any number of cards named Battalion Foot Soldier, reveal them, put them into your hand, then shuffle your library.",2,Creature — Human Soldier
+Cristi Balanescu,2,,{1}{B},Blood Burglar,2,0.15,common,"As long as it's your turn, Blood Burglar has lifelink.(Damage dealt by this creature also causes you to gain that much life.)",2,Creature — Vampire Rogue
+Cristi Balanescu,1,,{U},Spectral Sailor,1,0.75,uncommon,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+{3}{U}: Draw a card.",1,Creature — Spirit Pirate
+Cristi Balanescu,5,,{4}{W},Squad Captain,2,0.15,common,"Vigilance (Attacking doesn't cause this creature to tap.)
+Squad Captain enters the battlefield with a +1/+1 counter on it for each other creature you control.",2,Creature — Human Soldier
+Cristi Balanescu,3,,{1}{U}{B},Tomebound Lich,1,0.23,uncommon,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Whenever Tomebound Lich enters the battlefield or deals combat damage to a player, draw a card, then discard a card.",3,Creature — Zombie Wizard
+Cynthia Sheppard,3,5,{1}{U/B}{U/B},"Ashiok, Dream Render",,1.06,uncommon,"Spells and abilities your opponents control can't cause their controller to search their library.
+[−1]: Target player puts the top four cards of their library into their graveyard. Then exile each opponent's graveyard.",,Legendary Planeswalker — Ashiok
+Daarken,3,,{2}{B},Barony Vampire,3,0.15,common,,2,Creature — Vampire
+Daarken,5,,{2}{W}{W}{W},Cavalier of Dawn,4,2.39,mythic,"Vigilance
+When Cavalier of Dawn enters the battlefield, destroy up to one target nonland permanent. Its controller creates a 3/3 colorless Golem artifact creature token.
+When Cavalier of Dawn dies, return target artifact or enchantment card from your graveyard to your hand.",6,Creature — Elemental Knight
+Daarken,1,,{G},Healer of the Glade,1,0.16,common,"When Healer of the Glade enters the battlefield, you gain 3 life.",2,Creature — Elemental
+Daarken,6,,{4}{R}{R},Immortal Phoenix,5,8.56,rare,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Immortal Phoenix dies, return it to its owner's hand.",3,Creature — Phoenix
+Daarken,3,,{2}{B},Soul Salvage,,0.15,common,Return up to two target creature cards from your graveyard to your hand.,,Sorcery
+Daarken,2,,{B}{B},Yarok's Fenlurker,1,0.2,uncommon,"When Yarok's Fenlurker enters the battlefield, each opponent exiles a card from their hand.
+{2}{B}: Yarok's Fenlurker gets +1/+1 until end of turn.",1,Creature — Horror
+Daarken,5,,{2}{B}{G}{U},"Yarok, the Desecrated",3,12.98,mythic,"Deathtouch, lifelink
+If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",5,Legendary Creature — Elemental Horror
+Daarken,6,,{4}{B}{B},Command the Dreadhorde,,1.43,rare,Choose any number of target creature and/or planeswalker cards in graveyards. Command the Dreadhorde deals damage to you equal to the total converted mana cost of those cards. Put them onto the battlefield under your control.,,Sorcery
+Daarken,4,,{3}{B},Davriel's Shadowfugue,,0.14,common,Target player discards two cards and loses 2 life.,,Sorcery
+Daarken,3,3,{2}{B},"Davriel, Rogue Shadowmage",,0.4,uncommon,"At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, Davriel, Rogue Shadowmage deals 2 damage to them.
+[−1]: Target player discards a card.",,Legendary Planeswalker — Davriel
+Daarken,2,,{X}{B}{B},Finale of Eternity,,1.71,mythic,"Destroy up to three target creatures with toughness X or less. If X is 10 or more, return all creature cards from your graveyard to the battlefield.",,Sorcery
+Daarken,3,,{2}{W},Prison Realm,,0.24,uncommon,"When Prison Realm enters the battlefield, exile target creature or planeswalker an opponent controls until Prison Realm leaves the battlefield.
+When Prison Realm enters the battlefield, scry 1.",,Enchantment
+Daarken,2,,{B}{B},Sorin's Thirst,,0.14,common,Sorin's Thirst deals 2 damage to target creature and you gain 2 life.,,Instant
+Daarken,2,,{B}{B},The Elderspell,,2.9,rare,Destroy any number of target planeswalkers. Choose a planeswalker you control. Put two loyalty counters on it for each planeswalker destroyed this way.,,Sorcery
+Daarken,6,4,{6},"Ugin, the Ineffable",,4.7,rare,"Colorless spells you cast cost {2} less to cast.
+[+1]: Exile the top card of your library face down and look at it. Create a 2/2 colorless Spirit creature token. When that token leaves the battlefield, put the exiled card into your hand.
+[−3]: Destroy target permanent that's one or more colors.",,Legendary Planeswalker — Ugin
+Daisuke Izuka,3,3,{2}{G},"Jiang Yanggu, Wildcrafter",,,uncommon,"Each creature you control with a +1/+1 counter on it has ""{T}: Add one mana of any color.""
+[−1]: Put a +1/+1 counter on target creature.",,Legendary Planeswalker — Yanggu
+Dan Scott,3,,{2}{W},Aerial Assault,,0.15,common,Destroy target tapped creature. You gain 1 life for each creature you control with flying.,,Sorcery
+Dan Scott,3,,{2}{R},Goblin Smuggler,2,0.15,common,"Haste (This creature can attack and {T} as soon as it comes under your control.)
+{T}: Another target creature with power 2 or less can't be blocked this turn.",2,Creature — Goblin Rogue
+Dan Scott,4,,{2}{G}{G},Nightpack Ambusher,4,3.68,rare,"Flash
+Other Wolves and Werewolves you control get +1/+1.
+At the beginning of your end step, if you didn't cast a spell this turn, create a 2/2 green Wolf creature token.",4,Creature — Wolf
+Dan Scott,2,,{1}{W},War Screecher,1,0.14,common,"Flying
+{5}{W}, {T}: Other creatures you control get +1/+1 until end of turn.",3,Creature — Bird
+Daniel Ljunggren,4,,{2}{U}{U},Celestial Messenger,3,0.34,common,"Flash (You may cast this card any time you could cast an instant.)
+Flying
+Celestial Messenger gets +1/+1 as long as you control a Yanling planeswalker.",2,Creature — Bird Spirit
+Daniel Ljunggren,2,,{1}{U},Cerulean Drake,1,0.25,uncommon,"Flying
+Protection from red (This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything red.)
+Sacrifice Cerulean Drake: Counter target spell that targets you.",1,Creature — Drake
+Daniel Ljunggren,1,,{1},Grafdigger's Cage,,1.71,rare,"Creature cards in graveyards and libraries can't enter the battlefield.
+Players can't cast spells from graveyards or libraries.",,Artifact
+Daniel Ljunggren,6,,{4}{B}{B},Gravewaker,5,0.9,rare,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+{5}{B}{B}: Return target creature card from your graveyard to the battlefield tapped.",5,Creature — Bird Spirit
+Daniel Ljunggren,5,,{2}{U}{U}{B},Enter the God-Eternals,,1.25,rare,"Enter the God-Eternals deals 4 damage to target creature and you gain life equal to the damage dealt this way. Target player puts the top four cards of their library into their graveyard. Amass 4. (Put four +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",,Sorcery
+Daniel Ljunggren,2,,{2},Guild Globe,,0.14,common,"When Guild Globe enters the battlefield, draw a card.
+{2}, {T}, Sacrifice Guild Globe: Add two mana of different colors.",,Artifact
+Daniel Ljunggren,4,,{4},Saheeli's Silverwing,2,0.14,common,"Flying
+When Saheeli's Silverwing enters the battlefield, look at the top card of target opponent's library.",3,Artifact Creature — Drake
+Daniel Ljunggren,2,,{U}{U},Silent Submersible,2,0.26,rare,"Whenever Silent Submersible deals combat damage to a player or planeswalker, draw a card.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",3,Artifact — Vehicle
+Darek Zabrocki,6,,{5}{B},Feral Abomination,5,0.15,common,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),5,Creature — Thrull
+Darek Zabrocki,4,,{2}{U}{U},Jace's Projection,2,0.28,uncommon,"Whenever you draw a card, put a +1/+1 counter on Jace's Projection.
+{3}{U}: Put a loyalty counter on target Jace planeswalker.",2,Creature — Wizard Illusion
+David Palumbo,2,,{1}{B},Legion's End,,0.68,rare,Exile target creature an opponent controls with converted mana cost 2 or less and all other creatures that player controls with the same name as that creature. Then that player reveals their hand and exiles all cards with that name from their hand and graveyard.,,Sorcery
+David Palumbo,2,,{1}{W},Moorland Inquisitor,2,0.15,common,{2}{W}: Moorland Inquisitor gains first strike until end of turn. (It deals combat damage before creatures without first strike.),2,Creature — Human Soldier
+David Palumbo,6,,{4}{B}{B},Thought Distortion,,0.23,uncommon,"This spell can't be countered.
+Target opponent reveals their hand. Exile all noncreature, nonland cards from that player's hand and graveyard.",,Sorcery
+David Palumbo,3,,{2}{R},Honor the God-Pharaoh,,0.15,common,"As an additional cost to cast this spell, discard a card.
+Draw two cards. Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",,Sorcery
+David Rapoza,2,,{1}{W},Fencing Ace,1,0.2,uncommon,Double strike (This creature deals both first-strike and regular combat damage.),1,Creature — Human Soldier
+Deruchenko Alexander,2,,{1}{W},Desperate Lunge,,0.25,common,Target creature gets +2/+2 and gains flying until end of turn. You gain 2 life.,,Instant
+Dmitry Burmak,3,,{2}{B},Audacious Thief,2,0.15,common,"Whenever Audacious Thief attacks, you draw a card and you lose 1 life.",2,Creature — Human Rogue
+Dmitry Burmak,1,,{1},Bag of Holding,,0.8,rare,"Whenever you discard a card, exile that card from your graveyard.
+{2}, {T}: Draw a card, then discard a card.
+{4}, {T}, Sacrifice Bag of Holding: Return all cards exiled with Bag of Holding to their owner's hand.",,Artifact
+Dmitry Burmak,1,,{1},Colossus Hammer,,0.49,uncommon,"Equipped creature gets +10/+10 and loses flying.
+Equip {8} ({8}: Attach to target creature you control. Equip only as a sorcery.)",,Artifact — Equipment
+Dmitry Burmak,1,,{G},Giant Growth,,0.15,common,Target creature gets +3/+3 until end of turn.,,Instant
+Dmitry Burmak,3,,{1}{B}{R},Mayhem Devil,3,0.22,uncommon,"Whenever a player sacrifices a permanent, Mayhem Devil deals 1 damage to any target.",3,Creature — Devil
+Donato Giancola,6,,{4}{R}{R},Shivan Dragon,5,0.92,rare,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+{R}: Shivan Dragon gets +1/+0 until end of turn.",5,Creature — Dragon
+D-suzuki,6,7,{4}{G}{G},"Arlinn, Voice of the Pack",,,uncommon,"Each creature you control that's a Wolf or a Werewolf enters the battlefield with an additional +1/+1 counter on it.
+[−2]: Create a 2/2 green Wolf creature token.",,Legendary Planeswalker — Arlinn
+Ekaterina Burmak,3,,{2}{W},Gauntlets of Light,,0.22,uncommon,"Enchant creature
+Enchanted creature gets +0/+2 and assigns combat damage equal to its toughness rather than its power.
+Enchanted creature has ""{2}{W}: Untap this creature.""",,Enchantment — Aura
+Eric Deschamps,3,,{2}{R},Act of Treason,,0.16,common,Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.),,Sorcery
+Eric Deschamps,2,,{1}{R},Chandra's Regulator,,0.51,rare,"Whenever you activate a loyalty ability of a Chandra planeswalker, you may pay {1}. If you do, copy that ability. You may choose new targets for the copy.
+{1}, {T}, Discard a Mountain card or a red card: Draw a card.",,Legendary Artifact
+Eric Deschamps,2,,{1}{U},Renowned Weaponsmith,1,0.23,uncommon,"{T}: Add {C}{C}. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+{U}, {T}: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle your library.",3,Creature — Human Artificer
+Eric Deschamps,2,,{1}{W},Starfield Mystic,2,0.49,rare,"Enchantment spells you cast cost {1} less to cast.
+Whenever an enchantment you control is put into a graveyard from the battlefield, put a +1/+1 counter on Starfield Mystic.",2,Creature — Human Cleric
+Eric Deschamps,2,,{1}{U},Contentious Plan,,0.15,common,"Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Draw a card.",,Sorcery
+Eric Deschamps,1,,{W},Law-Rune Enforcer,1,0.14,common,"{1}, {T}: Tap target creature with converted mana cost 2 or greater.",2,Creature — Human Soldier
+Eric Deschamps,4,,{3}{U},Spark Double,0,1.82,rare,"You may have Spark Double enter the battlefield as a copy of a creature or planeswalker you control, except it enters with an additional +1/+1 counter on it if it's a creature, it enters with an additional loyalty counter on it if it's a planeswalker, and it isn't legendary if that permanent is legendary.",0,Creature — Illusion
+Even Amundsen,4,,{3}{G},Bloom Hulk,4,0.15,common,"When Bloom Hulk enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",4,Creature — Plant Elemental
+Even Amundsen,4,,{3}{G},Centaur Nurturer,2,0.14,common,"When Centaur Nurturer enters the battlefield, you gain 3 life.
+{T}: Add one mana of any color.",4,Creature — Centaur Druid
+Eytan Zana,0,,,Jungle Hollow,,0.18,common,"Jungle Hollow enters the battlefield tapped.
+When Jungle Hollow enters the battlefield, you gain 1 life.
+{T}: Add {B} or {G}.",,Land
+Eytan Zana,0,,,Rugged Highlands,,0.16,common,"Rugged Highlands enters the battlefield tapped.
+When Rugged Highlands enters the battlefield, you gain 1 life.
+{T}: Add {R} or {G}.",,Land
+Eytan Zana,0,,,Scoured Barrens,,0.16,common,"Scoured Barrens enters the battlefield tapped.
+When Scoured Barrens enters the battlefield, you gain 1 life.
+{T}: Add {W} or {B}.",,Land
+Eytan Zana,0,,,Swiftwater Cliffs,,0.17,common,"Swiftwater Cliffs enters the battlefield tapped.
+When Swiftwater Cliffs enters the battlefield, you gain 1 life.
+{T}: Add {U} or {R}.",,Land
+Eytan Zana,0,,,Thornwood Falls,,0.16,common,"Thornwood Falls enters the battlefield tapped.
+When Thornwood Falls enters the battlefield, you gain 1 life.
+{T}: Add {G} or {U}.",,Land
+Eytan Zana,0,,,Wind-Scarred Crag,,0.18,common,"Wind-Scarred Crag enters the battlefield tapped.
+When Wind-Scarred Crag enters the battlefield, you gain 1 life.
+{T}: Add {R} or {W}.",,Land
+Eytan Zana,3,,{2}{G},New Horizons,,0.15,common,"Enchant land
+When New Horizons enters the battlefield, put a +1/+1 counter on target creature you control.
+Enchanted land has ""{T}: Add two mana of any one color.""",,Enchantment — Aura
+Filip Burburan,6,,{3}{G}{G}{G},Aggressive Mammoth,8,0.99,rare,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Other creatures you control have trample.",8,Creature — Elephant
+Filip Burburan,3,,{1}{G}{W},Ironroot Warlord,*,0.2,uncommon,"Ironroot Warlord's power is equal to the number of creatures you control.
+{3}{G}{W}: Create a 1/1 white Soldier creature token.",5,Creature — Treefolk Soldier
+Filip Burburan,2,,{1}{G},Leafkin Druid,0,0.18,common,"{T}: Add {G}. If you control four or more creatures, add {G}{G} instead.",3,Creature — Elemental Druid
+Filip Burburan,2,,{1}{G},Plummet,,0.15,common,Destroy target creature with flying.,,Instant
+Filip Burburan,6,,{4}{G}{G},Wakeroot Elemental,5,0.35,rare,{G}{G}{G}{G}{G}: Untap target land you control. It becomes a 5/5 Elemental creature with haste. It's still a land. (This effect lasts as long as that land remains on the battlefield.),5,Creature — Elemental
+Filip Burburan,5,,{3}{R}{R},"Ilharg, the Raze-Boar",6,5.82,mythic,"Trample
+Whenever Ilharg, the Raze-Boar attacks, you may put a creature card from your hand onto the battlefield tapped and attacking. Return that creature to your hand at the beginning of the next end step.
+When Ilharg, the Raze-Boar dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",6,Legendary Creature — Boar God
+Foo Midori,3,5,{1}{U}{U},"Narset, Parter of Veils",,,uncommon,"Each opponent can't draw more than one card each turn.
+[−2]: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",,Legendary Planeswalker — Narset
+Foo Midori,3,5,{2}{W},"Teyo, the Shieldmage",,,uncommon,"You have hexproof. (You can't be the target of spells or abilities your opponents control.)
+[−2]: Create a 0/3 white Wall creature token with defender.",,Legendary Planeswalker — Teyo
+Franz Vohwinkel,2,,{2},Heart-Piercer Bow,,0.15,common,"Whenever equipped creature attacks, Heart-Piercer Bow deals 1 damage to target creature defending player controls.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",,Artifact — Equipment
+Franz Vohwinkel,2,,{2},Vial of Dragonfire,,0.15,common,"{2}, {T}, Sacrifice Vial of Dragonfire: It deals 2 damage to target creature.",,Artifact
+Fuzichoco,4,5,{2}{G}{U},"Tamiyo, Collector of Tales",,,rare,"Spells and abilities your opponents control can't cause you to discard cards or sacrifice permanents.
+[+1]: Choose a nonland card name, then reveal the top four cards of your library. Put all cards with the chosen name from among them into your hand and the rest into your graveyard.
+[−3]: Return target card from your graveyard to your hand.",,Legendary Planeswalker — Tamiyo
+Gabor Szikszai,4,,{3}{R},Goblin Ringleader,2,0.25,uncommon,"Haste (This creature can attack and {T} as soon as it comes under your control.)
+When Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.",2,Creature — Goblin
+Gabor Szikszai,1,,{W},Defiant Strike,,0.15,common,"Target creature gets +1/+0 until end of turn.
+Draw a card.",,Instant
+G-host Lee,4,,{1}{U}{R}{W},"Kykar, Wind's Fury",3,3.77,mythic,"Flying
+Whenever you cast a noncreature spell, create a 1/1 white Spirit creature token with flying.
+Sacrifice a Spirit: Add {R}.",3,Legendary Creature — Bird Wizard
+G-host Lee,3,2,{1}{U}{U},"Mu Yanling, Sky Dancer",,10,mythic,"[+2]: Until your next turn, up to one target creature gets -2/-0 and loses flying.
+[−3]: Create a 4/4 blue Elemental Bird creature token with flying.
+[−8]: You get an emblem with ""Islands you control have '{T}: Draw a card.'""",,Legendary Planeswalker — Yanling
+G-host Lee,2,,{1}{R},Dreadhorde Arcanist,1,9.99,rare,"Trample
+Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with converted mana cost less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead.",3,Creature — Zombie Wizard
+G-host Lee,3,,{2}{U},No Escape,,0.15,common,"Counter target creature or planeswalker spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+Scry 1.",,Instant
+Grzegorz Rutkowski,2,,{G}{G},Barkhide Troll,2,0.2,uncommon,"Barkhide Troll enters the battlefield with a +1/+1 counter on it.
+{1}, Remove a +1/+1 counter from Barkhide Troll: Barkhide Troll gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)",2,Creature — Troll
+Grzegorz Rutkowski,7,,{4}{R}{R}{R},"Drakuseth, Maw of Flames",7,0.76,rare,"Flying
+Whenever Drakuseth, Maw of Flames attacks, it deals 4 damage to any target and 3 damage to each of up to two other targets.",7,Legendary Creature — Dragon
+Grzegorz Rutkowski,7,,{5}{G}{G},Howling Giant,5,0.21,uncommon,"Reach (This creature can block creatures with flying.)
+When Howling Giant enters the battlefield, create two 2/2 green Wolf creature tokens.",5,Creature — Giant Druid
+Grzegorz Rutkowski,4,,{3}{U},Octoprophet,3,0.16,common,"When Octoprophet enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",3,Creature — Octopus
+Grzegorz Rutkowski,5,,{3}{W}{W},God-Eternal Oketra,3,8,mythic,"Double strike
+Whenever you cast a creature spell, create a 4/4 black Zombie Warrior creature token with vigilance.
+When God-Eternal Oketra dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",6,Legendary Creature — Zombie God
+Grzegorz Rutkowski,5,,{4}{G},Storm the Citadel,,0.2,uncommon,"Until end of turn, creatures you control get +2/+2 and gain ""Whenever this creature deals combat damage to a player or planeswalker, destroy target artifact or enchantment defending player controls.""",,Sorcery
+Hagiya Kaoru,3,3,{2}{B},"Davriel, Rogue Shadowmage",,,uncommon,"At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, Davriel, Rogue Shadowmage deals 2 damage to them.
+[−1]: Target player discards a card.",,Legendary Planeswalker — Davriel
+Heonhwa Choe,2,,{1}{R},Maniacal Rage,,0.15,common,"Enchant creature
+Enchanted creature gets +2/+2 and can't block.",,Enchantment — Aura
+Heonhwa Choe,3,,{2}{U},Flux Channeler,2,0.33,uncommon,"Whenever you cast a noncreature spell, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",2,Creature — Human Wizard
+Heonhwa Choe,4,,{3}{B},Herald of the Dreadhorde,3,0.15,common,"When Herald of the Dreadhorde dies, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",2,Creature — Zombie Warrior
+Heonhwa Choe,3,,{2}{U},Stealth Mission,,0.15,common,Put two +1/+1 counters on target creature you control. That creature can't be blocked this turn.,,Sorcery
+Hisashi Momose,3,5,{1}{U/R}{U/R},"Saheeli, Sublime Artificer",,,uncommon,"Whenever you cast a noncreature spell, create a 1/1 colorless Servo artifact creature token.
+[−2]: Target artifact you control becomes a copy of another target artifact or creature you control until end of turn, except it's an artifact in addition to its other types.",,Legendary Planeswalker — Saheeli
+Hisashi Momose,3,4,{2}{G},"Vivien, Champion of the Wilds",,,rare,"You may cast creature spells as though they had flash.
+[+1]: Until your next turn, up to one target creature gains vigilance and reach.
+[−2]: Look at the top three cards of your library. Exile one face down and put the rest on the bottom of your library in any order. For as long as it remains exiled, you may look at that card and you may cast it if it's a creature card.",,Legendary Planeswalker — Vivien
+Hitowa,5,5,{3}{G}{G},"Nissa, Who Shakes the World",,,rare,"Whenever you tap a Forest for mana, add an additional {G}.
+[+1]: Put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with vigilance and haste that's still a land.
+[−8]: You get an emblem with ""Lands you control have indestructible."" Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle your library.",,Legendary Planeswalker — Nissa
+Howard Lyon,4,,{2}{R}{W},Heartwarming Redemption,,0.2,uncommon,"Discard all the cards in your hand, then draw that many cards plus one. You gain life equal to the number of cards in your hand.",,Instant
+Hozan Shinomaru,3,5,{1}{U/B}{U/B},"Ashiok, Dream Render",,,uncommon,"Spells and abilities your opponents control can't cause their controller to search their library.
+[−1]: Target player puts the top four cards of their library into their graveyard. Then exile each opponent's graveyard.",,Legendary Planeswalker — Ashiok
+Igor Kieryluk,7,,{5}{U}{U},Agent of Treachery,2,0.52,rare,"When Agent of Treachery enters the battlefield, gain control of target permanent.
+At the beginning of your end step, if you control three or more permanents you don't own, draw three cards.",3,Creature — Human Rogue
+Igor Kieryluk,3,,{1}{B}{B},Bloodthirsty Aerialist,2,0.24,uncommon,"Flying
+Whenever you gain life, put a +1/+1 counter on Bloodthirsty Aerialist.",3,Creature — Vampire Rogue
+Igor Kieryluk,3,,{1}{B}{B},Embodiment of Agonies,0,1.03,rare,"Flying, deathtouch
+Embodiment of Agonies enters the battlefield with a +1/+1 counter on it for each different mana cost among nonland cards in your graveyard. (For example, {2}{B} and {1}{B}{B} are different mana costs.)",0,Creature — Demon
+Igor Kieryluk,2,,{1}{R},Mask of Immolation,,0.2,uncommon,"When Mask of Immolation enters the battlefield, create a 1/1 red Elemental creature token, then attach Mask of Immolation to it.
+Equipped creature has ""Sacrifice this creature: It deals 1 damage to any target.""
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,Artifact — Equipment
+Igor Kieryluk,2,,{1}{B},Walking Corpse,2,0.18,common,,2,Creature — Zombie
+Igor Kieryluk,6,,{6},God-Pharaoh's Statue,,0.25,uncommon,"Spells your opponents cast cost {2} more to cast.
+At the beginning of your end step, each opponent loses 1 life.",,Legendary Artifact
+Igor Kieryluk,4,,{2}{R}{R},"Neheb, Dreadhorde Champion",5,0.49,rare,"Trample
+Whenever Neheb, Dreadhorde Champion deals combat damage to a player or planeswalker, you may discard any number of cards. If you do, draw that many cards and add that much {R}. Until end of turn, you don't lose this mana as steps and phases end.",4,Legendary Creature — Zombie Minotaur Warrior
+Igor Kieryluk,3,,{2}{B},Ob Nixilis's Cruelty,,0.15,common,"Target creature gets -5/-5 until end of turn. If that creature would die this turn, exile it instead.",,Instant
+Igor Kieryluk,4,,{1}{B}{B}{G},"Storrev, Devkarin Lich",5,0.36,rare,"Trample
+Whenever Storrev, Devkarin Lich deals combat damage to a player or planeswalker, return to your hand target creature or planeswalker card in your graveyard that wasn't put there this combat.",4,Legendary Creature — Zombie Elf Wizard
+Igor Kieryluk,3,,{2}{W},Teyo's Lightshield,0,0.15,common,"When Teyo's Lightshield enters the battlefield, put a +1/+1 counter on target creature you control.",3,Creature — Illusion
+Igor Kieryluk,3,,{2}{B},Vraska's Finisher,3,0.15,common,"When Vraska's Finisher enters the battlefield, destroy target creature or planeswalker an opponent controls that was dealt damage this turn.",2,Creature — Gorgon Assassin
+Izzy,3,,{2}{U},Frost Lynx,2,0.15,common,"When Frost Lynx enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",2,Creature — Elemental Cat
+Izzy,4,,{2}{R}{R},Repeated Reverberation,,0.49,rare,"When you next cast an instant spell, cast a sorcery spell, or activate a loyalty ability this turn, copy that spell or ability twice. You may choose new targets for the copies.",,Instant
+Izzy,4,,{2}{G}{G},Shifting Ceratops,5,2.99,rare,"This spell can't be countered.
+Protection from blue (This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything blue.)
+{G}: Shifting Ceratops gains your choice of reach, trample, or haste until end of turn.",4,Creature — Dinosaur
+Izzy,1,,{U},Unsummon,,0.15,common,Return target creature to its owner's hand.,,Instant
+Izzy,6,,{4}{R}{R},Bond of Passion,,0.2,uncommon,Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Bond of Passion deals 2 damage to any other target.,,Sorcery
+Izzy,2,,{W}{U},Dovin's Veto,,0.95,uncommon,"This spell can't be countered.
+Counter target noncreature spell.",,Instant
+Izzy,2,,{1}{W},Grateful Apparition,1,0.23,uncommon,"Flying
+Whenever Grateful Apparition deals combat damage to a player or planeswalker, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",1,Creature — Spirit
+Izzy,5,,{4}{G},Thundering Ceratok,4,0.15,common,"Trample
+When Thundering Ceratok enters the battlefield, other creatures you control gain trample until end of turn.",5,Creature — Rhino
+Jaime Jones,5,,{3}{G}{G},Awakening of Vitu-Ghazi,,0.38,rare,Put nine +1/+1 counters on target land you control. It becomes a legendary 0/0 Elemental creature with haste named Vitu-Ghazi. It's still a land.,,Instant
+Jaime Jones,2,,{X}{R}{R},Finale of Promise,,11.11,mythic,"You may cast up to one target instant card and/or up to one target sorcery card from your graveyard each with converted mana cost X or less without paying their mana costs. If a card cast this way would be put into your graveyard this turn, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies.",,Sorcery
+Jaime Jones,3,7,{2}{G/U},"Kiora, Behemoth Beckoner",,0.41,uncommon,"Whenever a creature with power 4 or greater enters the battlefield under your control, draw a card.
+[−1]: Untap target permanent.",,Legendary Planeswalker — Kiora
+Jakub Kasper,1,,{R},Reckless Air Strike,,0.15,common,"Choose one —
+• Reckless Air Strike deals 3 damage to target creature with flying.
+• Destroy target artifact.",,Sorcery
+Jakub Kasper,3,,{1}{G}{G},Thrashing Brontodon,3,0.24,uncommon,"{1}, Sacrifice Thrashing Brontodon: Destroy target artifact or enchantment.",4,Creature — Dinosaur
+James Paick,3,,{3},Salvager of Ruin,2,0.22,uncommon,Sacrifice Salvager of Ruin: Choose target permanent card in your graveyard that was put there from the battlefield this turn. Return it to your hand.,1,Artifact Creature — Construct
+James Paick,3,,{R}{R}{G},Living Twister,2,0.49,rare,"{1}{R}, Discard a land card: Living Twister deals 2 damage to any target.
+{G}: Return a tapped land you control to its owner's hand.",5,Creature — Elemental
+James Paick,3,,{2}{R},Spellgorger Weird,2,0.15,common,"Whenever you cast a noncreature spell, put a +1/+1 counter on Spellgorger Weird.",2,Creature — Weird
+James Paick,3,,{2}{U},Spellkeeper Weird,1,0.14,common,"{2}, {T}, Sacrifice Spellkeeper Weird: Return target instant or sorcery card from your graveyard to your hand.",4,Creature — Weird
+James Ryman,1,,{W},Soulmender,1,0.15,common,{T}: You gain 1 life.,1,Creature — Human Cleric
+James Zapata,4,,{4},Anvilwrought Raptor,2,0.15,common,"Flying
+First strike (This creature deals combat damage before creatures without first strike.)",1,Artifact Creature — Bird
+James Zapata,4,,{3}{B},Undead Servant,3,0.15,common,"When Undead Servant enters the battlefield, create a 2/2 black Zombie creature token for each card named Undead Servant in your graveyard.",2,Creature — Zombie
+Jana Schirmer,4,,{3}{W},Twinblade Paladin,3,0.86,uncommon,"Whenever you gain life, put a +1/+1 counter on Twinblade Paladin.
+As long as you have 25 or more life, Twinblade Paladin has double strike. (It deals both first-strike and regular combat damage.)",3,Creature — Human Knight
+Jason A. Engle,3,,{1}{W}{U},Empyrean Eagle,2,0.28,uncommon,"Flying
+Other creatures you control with flying get +1/+1.",3,Creature — Bird Spirit
+Jason A. Engle,5,,{4}{R},Reduce to Ashes,,0.15,common,"Reduce to Ashes deals 5 damage to target creature. If that creature would die this turn, exile it instead.",,Sorcery
+Jason Felix,6,,{4}{B}{B},Bogstomper,6,1.99,common,,5,Creature — Beast
+Jason Felix,5,,{3}{G}{G},Ethereal Elk,3,0.88,rare,"Trample
+When Ethereal Elk enters the battlefield, you may search your library and/or graveyard for a card named Vivien, Nature's Avenger, reveal it, and put it into your hand. If you search your library this way, shuffle it.",3,Creature — Elk Spirit
+Jason Felix,5,,{4}{R},Cyclops Electromancer,4,0.19,uncommon,"When Cyclops Electromancer enters the battlefield, it deals X damage to target creature an opponent controls, where X is the number of instant and sorcery cards in your graveyard.",2,Creature — Cyclops Wizard
+Jason Felix,1,,{R},Grim Initiate,1,0.15,common,"First strike
+When Grim Initiate dies, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",1,Creature — Zombie Warrior
+Jason Kang,2,,{1}{B},Blightbeetle,1,0.21,uncommon,"Protection from green (This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything green.)
+Creatures your opponents control can't have +1/+1 counters put on them.",1,Creature — Insect
+Jason Kang,3,,{2}{R},Uncaged Fury,,0.2,uncommon,Target creature gets +1/+1 and gains double strike until end of turn. (It deals both first-strike and regular combat damage.),,Instant
+Jason Rainville,1,,{R},Shock,,0.15,common,Shock deals 2 damage to any target.,,Instant
+Jason Rainville,5,,{3}{B}{B},Sorin's Guide,4,0.93,rare,"When Sorin's Guide enters the battlefield, you may search your library and/or graveyard for a card named Sorin, Vampire Lord, reveal it, and put it into your hand. If you search your library this way, shuffle it.",2,Creature — Vampire
+Jason Rainville,2,,{1}{B},Vampire Opportunist,2,0.33,common,{6}{B}: Each opponent loses 2 life and you gain 2 life.,1,Creature — Vampire
+Jason Rainville,1,,{G},Arboreal Grazer,0,0.19,common,"Reach
+When Arboreal Grazer enters the battlefield, you may put a land card from your hand onto the battlefield tapped.",3,Creature — Beast
+Jason Rainville,2,,{1}{B},Vampire Opportunist,2,0.14,common,{6}{B}: Each opponent loses 2 life and you gain 2 life.,1,Creature — Vampire
+Jedd Chevrier,0,,,Mobilized District,,0.74,rare,"{T}: Add {C}.
+{4}: Mobilized District becomes a 3/3 Citizen creature with vigilance until end of turn. It's still a land. This ability costs {1} less to activate for each legendary creature and planeswalker you control.",,Land
+Jehan Choo,5,,{2}{G}{G}{G},Cavalier of Thorns,5,10.6,mythic,"Reach
+When Cavalier of Thorns enters the battlefield, reveal the top five cards of your library. Put a land card from among them onto the battlefield and the rest into your graveyard.
+When Cavalier of Thorns dies, you may exile it. If you do, put another target card from your graveyard on top of your library.",6,Creature — Elemental Knight
+Jehan Choo,6,,{5}{R},Invading Manticore,4,0.15,common,"When Invading Manticore enters the battlefield, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",5,Creature — Zombie Manticore
+Jenn Ravenna,4,,{4},Firemind Vessel,,0.25,uncommon,"Firemind Vessel enters the battlefield tapped.
+{T}: Add two mana of different colors.",,Artifact
+Jeremy Jarvis,3,,{3},Scuttlemutt,2,0.2,uncommon,"{T}: Add one mana of any color.
+{T}: Target creature becomes the color or colors of your choice until end of turn.",2,Artifact Creature — Scarecrow
+Jesper Ejsing,2,,{1}{R},Goblin Assailant,2,0.35,common,,2,Creature — Goblin Warrior
+Jesper Ejsing,2,,{1}{W},Pacifism,,0.15,common,"Enchant creature
+Enchanted creature can't attack or block.",,Enchantment — Aura
+Jesper Ejsing,4,,{4},Pattern Matcher,3,0.19,uncommon,"When Pattern Matcher enters the battlefield, you may search your library for a card with the same name as another creature you control, reveal it, put it into your hand, then shuffle your library.",3,Artifact Creature — Golem
+Jesper Ejsing,2,,{1}{U},"Fblthp, the Lost",1,0.55,rare,"When Fblthp, the Lost enters the battlefield, draw a card. If it entered from your library or was cast from your library, draw two cards instead.
+When Fblthp becomes the target of a spell, shuffle Fblthp into its owner's library.",1,Legendary Creature — Homunculus
+Jesper Ejsing,2,,{1}{R},Goblin Assailant,2,0.15,common,,2,Creature — Goblin Warrior
+Jesper Ejsing,4,,{3}{W},Loxodon Sergeant,3,0.15,common,"Vigilance
+When Loxodon Sergeant enters the battlefield, other creatures you control gain vigilance until end of turn.",3,Creature — Elephant Soldier
+Jesper Ejsing,4,,{2}{U}{U},Rescuer Sphinx,3,0.2,uncommon,"Flying
+As Rescuer Sphinx enters the battlefield, you may return a nonland permanent you control to its owner's hand. If you do, Rescuer Sphinx enters the battlefield with a +1/+1 counter on it.",2,Creature — Sphinx
+Jim Nelson,0,,,Forest,,0.18,common,({T}: Add {G}.),,Basic Land — Forest
+Joe Slucher,5,,{3}{R}{R},Fire Elemental,5,0.15,common,,4,Creature — Elemental
+Joe Slucher,4,,{3}{R},Hostile Minotaur,3,1.99,common,Haste (This creature can attack and {T} as soon as it comes under your control.),3,Creature — Minotaur
+Joe Slucher,4,,{3}{U},Bond of Insight,,0.2,uncommon,Each player puts the top four cards of their library into their graveyard. Return up to two instant and/or sorcery cards from your graveyard to your hand. Exile Bond of Insight.,,Sorcery
+Joe Slucher,3,,{2}{B},Toll of the Invasion,,0.15,common,"Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",,Sorcery
+Johan Grenier,2,,{1}{R},Chandra's Embercat,2,0.15,common,{T}: Add {R}. Spend this mana only to cast an Elemental spell or a Chandra planeswalker spell.,2,Creature — Elemental Cat
+Johan Grenier,2,,{R}{G},Creeping Trailblazer,2,0.25,uncommon,"Other Elementals you control get +1/+0.
+{2}{R}{G}: Creeping Trailblazer gets +1/+1 until end of turn for each Elemental you control.",2,Creature — Elemental
+Johan Grenier,2,,{1}{W},Eternal Isolation,,0.2,uncommon,Put target creature with power 4 or greater on the bottom of its owner's library.,,Sorcery
+Johan Grenier,5,,{4}{R},Rapacious Dragon,3,0.2,uncommon,"Flying
+When Rapacious Dragon enters the battlefield, create two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")",3,Creature — Dragon
+Johan Grenier,3,,{1}{G}{U},Risen Reef,1,1.95,uncommon,"Whenever Risen Reef or another Elemental enters the battlefield under your control, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped. If you don't put the card onto the battlefield, put it into your hand.",1,Creature — Elemental
+Johan Grenier,1,,{R},Scorch Spitter,1,0.15,common,"Whenever Scorch Spitter attacks, it deals 1 damage to the player or planeswalker it's attacking.",1,Creature — Elemental Lizard
+Johan Grenier,3,,{2}{U},Aven Eternal,2,0.15,common,"Flying
+When Aven Eternal enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",2,Creature — Zombie Bird Warrior
+Johan Grenier,5,,{4}{W},Enforcer Griffin,3,0.12,common,Flying,4,Creature — Griffin
+Johan Grenier,5,,{4}{U},Eternal Skylord,3,0.2,uncommon,"When Eternal Skylord enters the battlefield, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Zombie tokens you control have flying.",3,Creature — Zombie Wizard
+Johan Grenier,1,,{B},Kaya's Ghostform,,0.17,common,"Enchant creature or planeswalker you control
+When enchanted permanent dies or is put into exile, return that card to the battlefield under your control.",,Enchantment — Aura
+Johann Bodin,1,,{B},Disentomb,,1.99,common,Return target creature card from your graveyard to your hand.,,Sorcery
+Johann Bodin,2,,{1}{G},Greenwood Sentinel,2,0.15,common,Vigilance (Attacking doesn't cause this creature to tap.),2,Creature — Elf Scout
+Johann Bodin,3,,{2}{W},Hanged Executioner,1,0.5,rare,"Flying
+When Hanged Executioner enters the battlefield, create a 1/1 white Spirit creature token with flying.
+{3}{W}, Exile Hanged Executioner: Exile target creature.",1,Creature — Spirit
+Johann Bodin,1,,{G},Might of the Masses,,0.2,uncommon,Target creature gets +1/+1 until end of turn for each creature you control.,,Instant
+Johann Bodin,5,,{4}{R},Chainwhip Cyclops,4,0.14,common,{3}{R}: Target creature can't block this turn.,4,Creature — Cyclops Warrior
+Johann Bodin,2,,{X}{U}{U},Finale of Revelation,,1.99,mythic,"Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game.
+Exile Finale of Revelation.",,Sorcery
+Johann Bodin,3,,{2}{U},Naga Eternal,3,0.14,common,,2,Creature — Zombie Naga
+Johann Bodin,4,,{3}{R},Turret Ogre,4,0.15,common,"Reach
+When Turret Ogre enters the battlefield, if you control another creature with power 4 or greater, Turret Ogre deals 2 damage to each opponent.",3,Creature — Ogre Warrior
+Johannes Voss,3,,{2}{W},Angel of Vitality,2,0.27,uncommon,"Flying
+If you would gain life, you gain that much life plus 1 instead.
+Angel of Vitality gets +2/+2 as long as you have 25 or more life.",2,Creature — Angel
+Johannes Voss,4,,{3}{G},Brightwood Tracker,2,0.15,common,"{5}{G}, {T}: Look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",4,Creature — Elf Scout
+Johannes Voss,4,,{3}{R},Dreadhorde Twins,2,0.2,uncommon,"When Dreadhorde Twins enters the battlefield, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Zombie tokens you control have trample.",2,Creature — Zombie Jackal Warrior
+Johannes Voss,6,,{5}{W},Sunblade Angel,3,0.2,uncommon,"Flying, first strike, vigilance, lifelink",3,Creature — Angel
+Johannes Voss,2,,{W}{W},"Tomik, Distinguished Advokist",2,0.5,rare,"Flying
+Lands on the battlefield and land cards in graveyards can't be the targets of spells or abilities your opponents control.
+Your opponents can't play land cards from graveyards.",3,Legendary Creature — Human Advisor
+John Avon,0,,,Island,,0.25,common,({T}: Add {U}.),,Basic Land — Island
+John Avon,0,,,Lotus Field,,7.25,rare,"Hexproof
+Lotus Field enters the battlefield tapped.
+When Lotus Field enters the battlefield, sacrifice two lands.
+{T}: Add three mana of any one color.",,Land
+John Avon,0,,,Plains,,0.23,common,({T}: Add {W}.),,Basic Land — Plains
+John Avon,4,,{3}{R},Tectonic Rift,,0.15,common,Destroy target land. Creatures without flying can't block this turn.,,Sorcery
+John Avon,0,,,Tranquil Cove,,0.16,common,"Tranquil Cove enters the battlefield tapped.
+When Tranquil Cove enters the battlefield, you gain 1 life.
+{T}: Add {W} or {U}.",,Land
+John Severin Brassell,1,,{W},Loyal Pegasus,2,0.22,uncommon,"Flying
+Loyal Pegasus can't attack or block alone.",1,Creature — Pegasus
+John Stanko,1,,{G},Sedge Scorpion,1,0.15,common,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),1,Creature — Scorpion
+Jonas De Ro,0,,,Swamp,,0.19,common,({T}: Add {B}.),,Basic Land — Swamp
+Jonas De Ro,0,,,Swamp,,0.17,common,({T}: Add {B}.),,Basic Land — Swamp
+Jonas De Ro,6,,{3}{B}{B}{B},Bolas's Citadel,,1.73,rare,"You may look at the top card of your library any time.
+You may play the top card of your library. If you cast a spell this way, pay life equal to its converted mana cost rather than pay its mana cost.
+{T}, Sacrifice ten nonland permanents: Each opponent loses 10 life.",,Legendary Artifact
+Jonas De Ro,0,,,Emergence Zone,,0.39,uncommon,"{T}: Add {C}.
+{1}, {T}, Sacrifice Emergence Zone: You may cast spells this turn as though they had flash.",,Land
+Jonas De Ro,0,,,Forest,,0.16,common,({T}: Add {G}.),,Basic Land — Forest
+Jonas De Ro,0,,,Plains,,0.15,common,({T}: Add {W}.),,Basic Land — Plains
+Jonathan Kuo,2,,{1}{W},Prowling Caracal,3,0.2,common,,1,Creature — Cat
+Joseph Meehan,5,,{5},"Golos, Tireless Pilgrim",3,1.76,rare,"When Golos, Tireless Pilgrim enters the battlefield, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle your library.
+{2}{W}{U}{B}{R}{G}: Exile the top three cards of your library. You may play them this turn without paying their mana costs.",5,Legendary Artifact Creature — Scout
+Joseph Meehan,4,,{2}{B}{B},Thirsting Bloodlord,3,2.05,uncommon,Other Vampires you control get +1/+1.,3,Creature — Vampire
+Joseph Meehan,4,,{2}{U}{R},Ral's Outburst,,0.2,uncommon,Ral's Outburst deals 3 damage to any target. Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.,,Instant
+Josh Hass,3,,{2}{G},Band Together,,0.15,common,Up to two target creatures you control each deal damage equal to their power to another target creature.,,Instant
+Josu Hernaiz,2,,{1}{W},Angelic Gift,,0.15,common,"Enchant creature
+When Angelic Gift enters the battlefield, draw a card.
+Enchanted creature has flying.",,Enchantment — Aura
+Josu Hernaiz,4,,{3}{B},Fathom Fleet Cutthroat,3,0.15,common,"When Fathom Fleet Cutthroat enters the battlefield, destroy target creature an opponent controls that was dealt damage this turn.",3,Creature — Human Pirate
+Josu Hernaiz,4,,{3}{U},Sleep Paralysis,,0.15,common,"Enchant creature
+When Sleep Paralysis enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.",,Enchantment — Aura
+Justin Sweet,1,,{B},Disfigure,,0.23,uncommon,Target creature gets -2/-2 until end of turn.,,Instant
+Kaida Yuji,5,4,{U}{B}{B}{B}{R},"Nicol Bolas, Dragon-God",,,mythic,"Nicol Bolas, Dragon-God has all loyalty abilities of all other planeswalkers on the battlefield.
+[+1]: You draw a card. Each opponent exiles a card from their hand or a permanent they control.
+[−3]: Destroy target creature or planeswalker.
+[−8]: Each opponent who doesn't control a legendary creature or planeswalker loses the game.",,Legendary Planeswalker — Bolas
+Karl Kopinski,2,,{W}{B},Corpse Knight,2,0.35,uncommon,"Whenever another creature enters the battlefield under your control, each opponent loses 1 life.",2,Creature — Zombie Knight
+Karl Kopinski,2,,{W}{B},Corpse Knight,2,,uncommon,"Whenever another creature enters the battlefield under your control, each opponent loses 1 life.",2,Creature — Zombie Knight
+Karl Kopinski,5,,{3}{B}{B},Gruesome Scourger,3,0.21,uncommon,"When Gruesome Scourger enters the battlefield, it deals damage to target opponent or planeswalker equal to the number of creatures you control.",3,Creature — Orc Warrior
+Karl Kopinski,0,,,Mountain,,0.19,common,({T}: Add {R}.),,Basic Land — Mountain
+Karl Kopinski,2,,{1}{G},Rabid Bite,,0.15,common,Target creature you control deals damage equal to its power to target creature you don't control.,,Sorcery
+Karl Kopinski,2,,{B}{B},Sorin's Thirst,,0.37,common,Sorin's Thirst deals 2 damage to target creature and you gain 2 life.,,Instant
+Karl Kopinski,5,,{4}{B},Vengeful Warchief,4,0.2,uncommon,"Whenever you lose life for the first time each turn, put a +1/+1 counter on Vengeful Warchief. (Damage causes loss of life.)",4,Creature — Orc Warrior
+Kev Walker,0,,,Field of the Dead,,1.39,rare,"Field of the Dead enters the battlefield tapped.
+{T}: Add {C}.
+Whenever Field of the Dead or another land enters the battlefield under your control, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.",,Land
+Kev Walker,1,,{B},Sanitarium Skeleton,1,0.15,common,{2}{B}: Return Sanitarium Skeleton from your graveyard to your hand.,2,Creature — Skeleton
+Kieran Yanner,5,,{2}{R}{G}{W},"Rienne, Angel of Rebirth",5,,mythic,"Flying
+Other multicolored creatures you control get +1/+0.
+Whenever another multicolored creature you control dies, return it to its owner's hand at the beginning of the next end step.",4,Legendary Creature — Angel
+Kieran Yanner,2,,{1}{R},Chandra's Triumph,,0.2,uncommon,Chandra's Triumph deals 3 damage to target creature or planeswalker an opponent controls. Chandra's Triumph deals 5 damage to that permanent instead if you control a Chandra planeswalker.,,Instant
+Kieran Yanner,2,,{1}{W},Divine Arrow,,0.14,common,Divine Arrow deals 4 damage to target attacking or blocking creature.,,Instant
+Kieran Yanner,3,5,{2}{W/U},"Dovin, Hand of Control",,0.35,uncommon,"Artifact, instant, and sorcery spells your opponents cast cost {1} more to cast.
+[−1]: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.",,Legendary Planeswalker — Dovin
+Kieran Yanner,2,,{1}{W},Gideon's Triumph,,0.2,uncommon,"Target opponent sacrifices a creature that attacked or blocked this turn. If you control a Gideon planeswalker, that player sacrifices two of those creatures instead.",,Instant
+Kieran Yanner,6,4,{4}{W}{W},"Gideon, the Oathsworn",,,mythic,"Whenever you attack with two or more non-Gideon creatures, put a +1/+1 counter on each of those creatures.
+[+2]: Until end of turn, Gideon, the Oathsworn becomes a 5/5 white Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn. (He can't attack if he was cast this turn.)
+[−9]: Exile Gideon, the Oathsworn and each creature your opponents control.",,Legendary Planeswalker — Gideon
+Kieran Yanner,3,,{2}{U},Jace's Triumph,,0.2,uncommon,"Draw two cards. If you control a Jace planeswalker, draw three cards instead.",,Sorcery
+Kieran Yanner,6,4,{4}{U}{U},"Jace, Arcane Strategist",,,mythic,"Whenever you draw your second card each turn, put a +1/+1 counter on target creature you control.
+[+1]: Draw a card.
+[−7]: Creatures you control can't be blocked this turn.",,Legendary Planeswalker — Jace
+Kieran Yanner,2,,{1}{B},Liliana's Triumph,,0.35,uncommon,"Each opponent sacrifices a creature. If you control a Liliana planeswalker, each opponent also discards a card.",,Instant
+Kieran Yanner,2,,{G}{G},Nissa's Triumph,,0.25,uncommon,"Search your library for up to two basic Forest cards. If you control a Nissa planeswalker, instead search your library for up to three land cards. Reveal those cards, put them into your hand, then shuffle your library.",,Sorcery
+Kieran Yanner,5,5,{3}{R}{R},Sarkhan the Masterless,,1.74,rare,"Whenever a creature attacks you or a planeswalker you control, each Dragon you control deals 1 damage to that creature.
+[+1]: Until end of turn, each planeswalker you control becomes a 4/4 red Dragon creature and gains flying.
+[−3]: Create a 4/4 red Dragon creature token with flying.",,Legendary Planeswalker — Sarkhan
+Kieran Yanner,1,,{B},Spark Harvest,,0.15,common,"As an additional cost to cast this spell, sacrifice a creature or pay {3}{B}.
+Destroy target creature or planeswalker.",,Sorcery
+Kimonas Theodossiou,3,,{2}{G},Arlinn's Wolf,3,0.14,common,Arlinn's Wolf can't be blocked by creatures with power 2 or less.,2,Creature — Wolf
+Kimonas Theodossiou,4,,{3}{G},"Mowu, Loyal Companion",3,0.2,uncommon,"Trample, vigilance
+If one or more +1/+1 counters would be put on Mowu, Loyal Companion, that many plus one +1/+1 counters are put on it instead.",3,Legendary Creature — Hound
+Kirsten Zirngibl,0,,,Island,,0.12,common,({T}: Add {U}.),,Basic Land — Island
+Lack,5,5,{3}{R}{R},Sarkhan the Masterless,,,rare,"Whenever a creature attacks you or a planeswalker you control, each Dragon you control deals 1 damage to that creature.
+[+1]: Until end of turn, each planeswalker you control becomes a 4/4 red Dragon creature and gains flying.
+[−3]: Create a 4/4 red Dragon creature token with flying.",,Legendary Planeswalker — Sarkhan
+Lake Hurwitz,4,,{4},Diviner's Lockbox,,0.2,uncommon,"{1}, {T}: Choose a card name, then reveal the top card of your library. If that card has the chosen name, sacrifice Diviner's Lockbox and draw three cards. Activate this ability only any time you could cast a sorcery.",,Artifact
+Lake Hurwitz,1,,{1},Manifold Key,,0.4,uncommon,"{1}, {T}: Untap another target artifact.
+{3}, {T}: Target creature can't be blocked this turn.",,Artifact
+Lake Hurwitz,7,,{7},Meteor Golem,3,0.19,uncommon,"When Meteor Golem enters the battlefield, destroy target nonland permanent an opponent controls.",3,Artifact Creature — Golem
+Lake Hurwitz,1,,{G},Veil of Summer,,1.65,uncommon,Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.),,Instant
+Lake Hurwitz,5,,{4}{B},Bond of Revival,,0.2,uncommon,Return target creature card from your graveyard to the battlefield. It gains haste until your next turn.,,Sorcery
+Lake Hurwitz,4,,{3}{U},Tamiyo's Epiphany,,0.15,common,"Scry 4, then draw two cards.",,Sorcery
+Lars Grant-West,5,,{4}{G},Mammoth Spider,3,0.15,common,Reach (This creature can block creatures with flying.),5,Creature — Spider
+Lie Setiawan,2,,{1}{U},Coral Merfolk,2,1.79,common,,1,Creature — Merfolk
+Lindsey Look,5,,{4}{G},Wolfkin Bond,,0.16,common,"Enchant creature
+When Wolfkin Bond enters the battlefield, create a 2/2 green Wolf creature token.
+Enchanted creature gets +2/+2.",,Enchantment — Aura
+Lius Lasahido,4,,{1}{G}{U}{R},"Omnath, Locus of the Roil",3,15.95,mythic,"When Omnath, Locus of the Roil enters the battlefield, it deals damage to any target equal to the number of Elementals you control.
+Whenever a land enters the battlefield under your control, put a +1/+1 counter on target Elemental you control. If you control eight or more lands, draw a card.",3,Legendary Creature — Elemental
+Lius Lasahido,5,,{3}{B}{B},God-Eternal Bontu,5,4.08,mythic,"Menace
+When God-Eternal Bontu enters the battlefield, sacrifice any number of other permanents, then draw that many cards.
+When God-Eternal Bontu dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",6,Legendary Creature — Zombie God
+Lius Lasahido,4,,{2}{U}{U},God-Eternal Kefnet,4,9,mythic,"Flying
+You may reveal the first card you draw each turn as you draw it. Whenever you reveal an instant or sorcery card this way, copy that card and you may cast the copy. That copy costs {2} less to cast.
+When God-Eternal Kefnet dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",5,Legendary Creature — Zombie God
+Lius Lasahido,5,,{3}{G}{G},God-Eternal Rhonas,5,4.25,mythic,"Deathtouch
+When God-Eternal Rhonas enters the battlefield, double the power of each other creature you control until end of turn. Those creatures gain vigilance until end of turn.
+When God-Eternal Rhonas dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",5,Legendary Creature — Zombie God
+Lius Lasahido,3,7,{2}{G/W},"Huatli, the Sun's Heart",,0.25,uncommon,"Each creature you control assigns combat damage equal to its toughness rather than its power.
+[−3]: You gain life equal to the greatest toughness among creatures you control.",,Legendary Planeswalker — Huatli
+Lius Lasahido,3,,{2}{G},Vivien's Grizzly,2,0.15,common,"{3}{G}: Look at the top card of your library. If it's a creature or planeswalker card, you may reveal it and put it into your hand. If you don't put the card into your hand, put it on the bottom of your library.",3,Creature — Bear Spirit
+Livia Prima,7,,{4}{W}{W}{W},"Sephara, Sky's Blade",7,1.99,rare,"You may pay {W} and tap four untapped creatures you control with flying rather than pay this spell's mana cost.
+Flying, lifelink
+Other creatures you control with flying have indestructible. (Damage and effects that say ""destroy"" don't destroy them.)",7,Legendary Creature — Angel
+Livia Prima,5,,{4}{U},Ashiok's Skulker,3,0.14,common,{3}{U}: Ashiok's Skulker can't be blocked this turn.,5,Creature — Nightmare
+Livia Prima,5,,{3}{W}{W},Single Combat,,0.35,rare,"Each player chooses a creature or planeswalker they control, then sacrifices the rest. Players can't cast creature or planeswalker spells until the end of your next turn.",,Sorcery
+Lucas Graciano,6,,{4}{G}{G},Vorstclaw,7,0.15,common,,7,Creature — Elemental Horror
+Maekawa Yuichi,5,5,{4}{R},"Jaya, Venerated Firemage",,,uncommon,"If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.
+[−2]: Jaya, Venerated Firemage deals 2 damage to any target.",,Legendary Planeswalker — Jaya
+Maekawa Yuichi,6,4,{6},"Ugin, the Ineffable",,,rare,"Colorless spells you cast cost {2} less to cast.
+[+1]: Exile the top card of your library face down and look at it. Create a 2/2 colorless Spirit creature token. When that token leaves the battlefield, put the exiled card into your hand.
+[−3]: Destroy target permanent that's one or more colors.",,Legendary Planeswalker — Ugin
+Magali Villeneuve,6,4,{4}{R}{R},"Chandra, Flame's Fury",,,mythic,"[+1]: Chandra, Flame's Fury deals 2 damage to any target.
+[−2]: Chandra, Flame's Fury deals 4 damage to target creature and 2 damage to that creature's controller.
+[−8]: Chandra, Flame's Fury deals 10 damage to target player and each creature that player controls.",,Legendary Planeswalker — Chandra
+Magali Villeneuve,2,,{1}{U},Negate,,0.16,common,Counter target noncreature spell.,,Instant
+Magali Villeneuve,6,,{4}{W}{W},Serra's Guardian,5,1,rare,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+Vigilance (Attacking doesn't cause this creature to tap.)
+Other creatures you control have vigilance.",5,Creature — Angel
+Magali Villeneuve,4,5,{3}{U},"Kasmina, Enigmatic Mentor",,0.35,uncommon,"Spells your opponents cast that target a creature or planeswalker you control cost {2} more to cast.
+[−2]: Create a 2/2 blue Wizard creature token. Draw a card, then discard a card.",,Legendary Planeswalker — Kasmina
+Magali Villeneuve,6,7,{3}{W/B}{W/B}{W/B},"Kaya, Bane of the Dead",,0.25,uncommon,"Your opponents and permanents your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.
+[−3]: Exile target creature.",,Legendary Planeswalker — Kaya
+Magali Villeneuve,3,5,{1}{U}{U},"Narset, Parter of Veils",,4,uncommon,"Each opponent can't draw more than one card each turn.
+[−2]: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",,Legendary Planeswalker — Narset
+Magali Villeneuve,2,,{1}{W},Rally of Wings,,0.21,uncommon,Untap all creatures you control. Creatures you control with flying get +2/+2 until end of turn.,,Instant
+Magali Villeneuve,3,5,{2}{W},"Teyo, the Shieldmage",,0.25,uncommon,"You have hexproof. (You can't be the target of spells or abilities your opponents control.)
+[−2]: Create a 0/3 white Wall creature token with defender.",,Legendary Planeswalker — Teyo
+Magali Villeneuve,3,4,{2}{G},"Vivien, Champion of the Wilds",,1.98,rare,"You may cast creature spells as though they had flash.
+[+1]: Until your next turn, up to one target creature gains vigilance and reach.
+[−2]: Look at the top three cards of your library. Exile one face down and put the rest on the bottom of your library in any order. For as long as it remains exiled, you may look at that card and you may cast it if it's a creature card.",,Legendary Planeswalker — Vivien
+Mark Behm,3,,{2}{R},"Krenko, Tin Street Kingpin",1,1.46,rare,"Whenever Krenko, Tin Street Kingpin attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko's power.",2,Legendary Creature — Goblin
+Mark Winters,1,,{W},Gods Willing,,0.22,uncommon,"Target creature you control gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)
+Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",,Instant
+Mark Zug,2,,{1}{W},Impassioned Orator,2,0.24,common,"Whenever another creature enters the battlefield under your control, you gain 1 life.",2,Creature — Human Cleric
+Martina Pilcerova,5,,{5},Stone Golem,4,0.15,common,,4,Artifact Creature — Golem
+Masuda Mikio,3,7,{2}{G/W},"Huatli, the Sun's Heart",,,uncommon,"Each creature you control assigns combat damage equal to its toughness rather than its power.
+[−3]: You gain life equal to the greatest toughness among creatures you control.",,Legendary Planeswalker — Huatli
+Mathias Kollros,3,,{2}{G},Feral Invocation,,0.15,common,"Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature gets +2/+2.",,Enchantment — Aura
+Mathias Kollros,6,,{3}{G}{G}{G},"Gargos, Vicious Watcher",8,0.76,rare,"Vigilance
+Hydra spells you cast cost {4} less to cast.
+Whenever a creature you control becomes the target of a spell, Gargos, Vicious Watcher fights up to one target creature you don't control.",7,Legendary Creature — Hydra
+Mathias Kollros,3,,{2}{G},Overgrowth Elemental,3,0.21,uncommon,"When Overgrowth Elemental enters the battlefield, put a +1/+1 counter on another target Elemental you control.
+Whenever another creature you control dies, you gain 1 life. If that creature was an Elemental, put a +1/+1 counter on Overgrowth Elemental.",2,Creature — Elemental
+Mathias Kollros,5,,{3}{G}{G},Silverback Shaman,5,0.15,common,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+When Silverback Shaman dies, draw a card.",4,Creature — Ape Shaman
+Mathias Kollros,4,,{3}{G},Thicket Crasher,4,0.15,common,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Other Elementals you control have trample.",3,Creature — Elemental Rhino
+Mathias Kollros,5,,{3}{G}{U},Bioessence Hydra,4,0.5,rare,"Trample
+Bioessence Hydra enters the battlefield with a +1/+1 counter on it for each loyalty counter on planeswalkers you control.
+Whenever one or more loyalty counters are put on planeswalkers you control, put that many +1/+1 counters on Bioessence Hydra.",4,Creature — Hydra Mutant
+Mathias Kollros,2,,{1}{R},Burning Prophet,1,0.15,common,"Whenever you cast a noncreature spell, Burning Prophet gets +1/+0 until end of turn, then scry 1.",3,Creature — Human Wizard
+Mathias Kollros,2,,{1}{U},Callous Dismissal,,0.15,common,"Return target nonland permanent to its owner's hand.
+Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",,Sorcery
+Mathias Kollros,6,,{5}{U},Kiora's Dambreaker,5,0.14,common,"When Kiora's Dambreaker enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",6,Creature — Leviathan
+Mathias Kollros,3,,{U}{U}{R},Role Reversal,,0.35,rare,Exchange control of two target permanents that share a permanent type.,,Sorcery
+Matt Cavotta,5,,{4}{W},Siege Mastodon,3,1.99,common,,5,Creature — Elephant
+Matt Stewart,3,,{2}{W},Bastion Enforcer,3,0.25,common,,2,Creature — Dwarf Soldier
+Matt Stewart,2,,{W}{W},Bishop of Wings,1,0.58,rare,"Whenever an Angel enters the battlefield under your control, you gain 4 life.
+Whenever an Angel you control dies, create a 1/1 white Spirit creature token with flying.",4,Creature — Human Cleric
+Matt Stewart,3,,{2}{G},Pulse of Murasa,,0.21,uncommon,Return target creature or land card from a graveyard to its owner's hand. You gain 6 life.,,Instant
+Matt Stewart,4,,{3}{B},Charity Extractor,1,0.14,common,Lifelink,5,Creature — Human Knight
+Matt Stewart,2,,{1}{G},Pollenbright Druid,1,0.15,common,"When Pollenbright Druid enters the battlefield, choose one —
+• Put a +1/+1 counter on target creature.
+• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",1,Creature — Elf Druid
+Matthew D. Wilson,7,,{5}{R}{R},Dragon Mage,5,0.21,uncommon,"Flying
+Whenever Dragon Mage deals combat damage to a player, each player discards their hand, then draws seven cards.",5,Creature — Dragon Wizard
+Micah Epstein,6,,{4}{W}{W},Herald of the Sun,4,0.21,uncommon,"Flying
+{3}{W}: Put a +1/+1 counter on another target creature with flying.",4,Creature — Angel
+Micah Epstein,7,,{5}{U}{U},Scholar of the Ages,3,0.2,uncommon,"When Scholar of the Ages enters the battlefield, return up to two target instant and/or sorcery cards from your graveyard to your hand.",3,Creature — Human Wizard
+Micah Epstein,2,,{1}{W},Show of Valor,,0.25,common,Target creature gets +2/+4 until end of turn.,,Instant
+Micah Epstein,3,,{2}{G},Courage in Crisis,,0.15,common,"Put a +1/+1 counter on target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",,Sorcery
+Micah Epstein,2,,{1}{R},Nahiri's Stoneblades,,0.15,common,Up to two target creatures each get +2/+0 until end of turn.,,Instant
+Michael Komarck,6,,{3}{W}{W}{W},Planar Cleansing,,0.33,rare,Destroy all nonland permanents.,,Sorcery
+Mid,4,5,{3}{U},"Kasmina, Enigmatic Mentor",,,uncommon,"Spells your opponents cast that target a creature or planeswalker you control cost {2} more to cast.
+[−2]: Create a 2/2 blue Wizard creature token. Draw a card, then discard a card.",,Legendary Planeswalker — Kasmina
+Mid,6,7,{3}{W/B}{W/B}{W/B},"Kaya, Bane of the Dead",,,uncommon,"Your opponents and permanents your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.
+[−3]: Exile target creature.",,Legendary Planeswalker — Kaya
+Miho Midorikawa,4,5,{2}{G}{W},"Ajani, the Greathearted",,,rare,"Creatures you control have vigilance.
+[+1]: You gain 3 life.
+[−2]: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.",,Legendary Planeswalker — Ajani
+Mike Bierek,0,,,Swamp,,0.25,common,({T}: Add {B}.),,Basic Land — Swamp
+Mike Bierek,3,,{1}{B}{B},Bleeding Edge,,0.2,uncommon,"Up to one target creature gets -2/-2 until end of turn. Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",,Sorcery
+Mike Bierek,4,,{3}{U},Crush Dissent,,0.14,common,"Counter target spell unless its controller pays {2}.
+Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",,Instant
+Milivoj Ćeran,4,,{3}{W},Gideon's Company,3,0.4,uncommon,"Whenever you gain life, put two +1/+1 counters on Gideon's Company.
+{3}{W}: Put a loyalty counter on target Gideon planeswalker.",3,Creature — Human Soldier
+Mitchell Malloy,2,,{W}{W},Brought Back,,1.88,rare,Choose up to two target permanent cards in your graveyard that were put there from the battlefield this turn. Return them to the battlefield tapped.,,Instant
+Mitchell Malloy,2,,{2},Marauder's Axe,,0.15,common,"Equipped creature gets +2/+0.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,Artifact — Equipment
+Nablange,3,5,{2}{W/U},"Dovin, Hand of Control",,,uncommon,"Artifact, instant, and sorcery spells your opponents cast cost {1} more to cast.
+[−1]: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.",,Legendary Planeswalker — Dovin
+Naochika Morishita,4,5,{4},"Karn, the Great Creator",,,rare,"Activated abilities of artifacts your opponents control can't be activated.
+[+1]: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.
+[−2]: You may choose an artifact card you own from outside the game or in exile, reveal that card, and put it into your hand.",,Legendary Planeswalker — Karn
+Naochika Morishita,4,4,{2}{U}{R},"Ral, Storm Conduit",,,rare,"Whenever you cast or copy an instant or sorcery spell, Ral, Storm Conduit deals 1 damage to target opponent or planeswalker.
+[+2]: Scry 1.
+[−2]: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",,Legendary Planeswalker — Ral
+Nicholas Gregory,6,,{5}{W},Loxodon Lifechanter,4,0.35,rare,"When Loxodon Lifechanter enters the battlefield, you may have your life total become the total toughness of creatures you control.
+{5}{W}: Loxodon Lifechanter gets +X/+X until end of turn, where X is your life total.",6,Creature — Elephant Cleric
+Nils Hamm,4,,{3}{B},Bartizan Bats,3,1.83,common,Flying (This creature can't be blocked except by creatures with flying or reach.),1,Creature — Bat
+Nils Hamm,4,,{2}{U}{U},Dungeon Geists,3,0.3,rare,"Flying
+When Dungeon Geists enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Dungeon Geists.",3,Creature — Spirit
+Nils Hamm,0,,,Plains,,0.16,common,({T}: Add {W}.),,Basic Land — Plains
+Nils Hamm,3,,{2}{U},Warden of Evos Isle,2,0.21,uncommon,"Flying
+Creature spells with flying you cast cost {1} less to cast.",2,Creature — Bird Wizard
+Nils Hamm,2,,{1}{G},Paradise Druid,2,0.35,uncommon,"Paradise Druid has hexproof as long as it's untapped.(It can't be the target of spells or abilities your opponents control.)
+{T}: Add one mana of any color.",1,Creature — Elf Druid
+Noah Bradley,4,,{2}{G}{G},Leyline of Abundance,,2.5,rare,"If Leyline of Abundance is in your opening hand, you may begin the game with it on the battlefield.
+Whenever you tap a creature for mana, add an additional {G}.
+{6}{G}{G}: Put a +1/+1 counter on each creature you control.",,Enchantment
+Noah Bradley,4,,{2}{U}{U},Leyline of Anticipation,,3.69,rare,"If Leyline of Anticipation is in your opening hand, you may begin the game with it on the battlefield.
+You may cast spells as though they had flash.",,Enchantment
+Noah Bradley,4,,{2}{R}{R},Leyline of Combustion,,1,rare,"If Leyline of Combustion is in your opening hand, you may begin the game with it on the battlefield.
+Whenever you and/or at least one permanent you control becomes the target of a spell or ability an opponent controls, Leyline of Combustion deals 2 damage to that player.",,Enchantment
+Noah Bradley,4,,{2}{W}{W},Leyline of Sanctity,,4.99,rare,"If Leyline of Sanctity is in your opening hand, you may begin the game with it on the battlefield.
+You have hexproof. (You can't be the target of spells or abilities your opponents control.)",,Enchantment
+Noah Bradley,4,,{2}{B}{B},Leyline of the Void,,15,rare,"If Leyline of the Void is in your opening hand, you may begin the game with it on the battlefield.
+If a card would be put into an opponent's graveyard from anywhere, exile it instead.",,Enchantment
+Noah Bradley,6,,{4}{U}{U},Commence the Endgame,,0.49,rare,"This spell can't be countered.
+Draw two cards, then amass X, where X is the number of cards in your hand. (Put X +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",,Instant
+Norikatsu Miyoshi,4,5,{2}{R/G}{R/G},"Samut, Tyrant Smasher",,,uncommon,"Creatures you control have haste.
+[−1]: Target creature gets +2/+1 and gains haste until end of turn. Scry 1.",,Legendary Planeswalker — Samut
+Norikatsu Miyoshi,4,5,{3}{W},The Wanderer,,,uncommon,"Prevent all noncombat damage that would be dealt to you and other permanents you control.
+[−2]: Exile target creature with power 4 or greater.",,Legendary Planeswalker
+Paul Scott Canavan,5,,{3}{R}{R},Chandra's Flame Wave,,1,rare,"Chandra's Flame Wave deals 2 damage to target player and each creature that player controls. Search your library and/or graveyard for a card named Chandra, Flame's Fury, reveal it, and put it into your hand. If you search your library this way, shuffle it.",,Sorcery
+Paul Scott Canavan,5,,{3}{W}{W},Goldmane Griffin,3,0.92,rare,"Flying, vigilance
+When Goldmane Griffin enters the battlefield, you may search your library and/or graveyard for a card named Ajani, Inspiring Leader, reveal it, and put it into your hand. If you search your library this way, shuffle it.",2,Creature — Griffin
+Pindurski,1,,{U},Hard Cover,,0.2,uncommon,"Enchant creature
+Enchanted creature gets +0/+2 and has ""{T}: Draw a card, then discard a card.""",,Enchantment — Aura
+Pindurski,4,,{2}{W}{U},Elite Guardmage,2,0.2,uncommon,"Flying
+When Elite Guardmage enters the battlefield, you gain 3 life and draw a card.",3,Creature — Human Wizard
+Piotr Dura,0,,,Temple of Mystery,,2.02,rare,"Temple of Mystery enters the battlefield tapped.
+When Temple of Mystery enters the battlefield, scry 1.
+{T}: Add {G} or {U}.",,Land
+Piotr Dura,0,,,Temple of Triumph,,1.67,rare,"Temple of Triumph enters the battlefield tapped.
+When Temple of Triumph enters the battlefield, scry 1.
+{T}: Add {R} or {W}.",,Land
+Piotr Dura,2,,{B}{R},Dreadhorde Butcher,1,1.06,rare,"Haste
+Whenever Dreadhorde Butcher deals combat damage to a player or planeswalker, put a +1/+1 counter on Dreadhorde Butcher.
+When Dreadhorde Butcher dies, it deals damage equal to its power to any target.",1,Creature — Zombie Warrior
+Piotr Dura,3,,{2}{B},Shriekdiver,2,0.14,common,"Flying
+{1}: Shriekdiver gains haste until end of turn.",1,Creature — Zombie Bird Warrior
+Raita Kazama,3,3,{1}{R}{G},"Domri, Anarch of Bolas",,,rare,"Creatures you control get +1/+0.
+[+1]: Add {R} or {G}. Creature spells you cast this turn can't be countered.
+[−2]: Target creature you control fights target creature you don't control.",,Legendary Planeswalker — Domri
+Ralph Horsley,2,,{1}{G},Steady Aim,,0.14,common,Untap target creature. It gets +1/+4 and gains reach until end of turn.,,Instant
+Ralph Horsley,2,,{1}{U},Teferi's Time Twist,,0.15,common,"Exile target permanent you control. Return that card to the battlefield under its owner's control at the beginning of the next end step. If it enters the battlefield as a creature, it enters with an additional +1/+1 counter on it.",,Instant
+Randy Gallegos,3,,{2}{U},Guildpact Informant,1,0.33,common,"Flying
+Whenever Guildpact Informant deals combat damage to a player or planeswalker, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",1,Creature — Faerie Rogue
+Randy Vargas,3,,{2}{U},Portal of Sanctuary,,0.23,uncommon,"{1}, {T}: Return target creature you control and each Aura attached to it to their owners' hands. Activate this ability only during your turn.",,Artifact
+Randy Vargas,3,,{2}{B},Rotting Regisaur,7,3,rare,"At the beginning of your upkeep, discard a card.",6,Creature — Zombie Dinosaur
+Randy Vargas,2,,{1}{G},Season of Growth,,0.29,uncommon,"Whenever a creature enters the battlefield under your control, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Whenever you cast a spell that targets a creature you control, draw a card.",,Enchantment
+Randy Vargas,4,,{3}{B},Skeleton Archer,3,1.99,common,"When Skeleton Archer enters the battlefield, it deals 1 damage to any target.",3,Creature — Skeleton Archer
+Randy Vargas,2,,{1}{W},Take Vengeance,,1.99,common,Destroy target tapped creature.,,Sorcery
+Randy Vargas,2,,{1}{U},Tale's End,,0.99,rare,"Counter target activated ability, triggered ability, or legendary spell.",,Instant
+Randy Vargas,2,,{1}{G},Woodland Champion,2,0.21,uncommon,"Whenever one or more tokens enter the battlefield under your control, put that many +1/+1 counters on Woodland Champion.",2,Creature — Elf Scout
+Randy Vargas,4,,{3}{U},Yarok's Wavecrasher,4,0.24,uncommon,"When Yarok's Wavecrasher enters the battlefield, return another creature you control to its owner's hand.",4,Creature — Elemental
+Randy Vargas,2,,{1}{U},Erratic Visionary,1,0.15,common,"{1}{U}, {T}: Draw a card, then discard a card.",3,Creature — Human Wizard
+Randy Vargas,2,,{G}{W},Huatli's Raptor,2,0.22,uncommon,"Vigilance
+When Huatli's Raptor enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",3,Creature — Dinosaur
+Randy Vargas,3,,{2}{G},Kraul Stinger,2,0.15,common,Deathtouch,2,Creature — Insect Assassin
+Randy Vargas,2,,{U}{B},Soul Diviner,2,0.49,rare,"{T}, Remove a counter from an artifact, creature, land, or planeswalker you control: Draw a card.",3,Creature — Zombie Wizard
+Raoul Vitale,4,,{3}{G},Wolfrider's Saddle,,0.2,uncommon,"When Wolfrider's Saddle enters the battlefield, create a 2/2 green Wolf creature token, then attach Wolfrider's Saddle to it.
+Equipped creature gets +1/+1 and can't be blocked by more than one creature.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",,Artifact — Equipment
+Raoul Vitale,3,,{3},Mana Geode,,0.15,common,"When Mana Geode enters the battlefield, scry 1.
+{T}: Add one mana of any color.",,Artifact
+Raymond Swanland,3,3,{1}{R}{G},"Domri, Anarch of Bolas",,1.25,rare,"Creatures you control get +1/+0.
+[+1]: Add {R} or {G}. Creature spells you cast this turn can't be countered.
+[−2]: Target creature you control fights target creature you don't control.",,Legendary Planeswalker — Domri
+Raymond Swanland,5,4,{U}{B}{B}{B}{R},"Nicol Bolas, Dragon-God",,13,mythic,"Nicol Bolas, Dragon-God has all loyalty abilities of all other planeswalkers on the battlefield.
+[+1]: You draw a card. Each opponent exiles a card from their hand or a permanent they control.
+[−3]: Destroy target creature or planeswalker.
+[−8]: Each opponent who doesn't control a legendary creature or planeswalker loses the game.",,Legendary Planeswalker — Bolas
+Raymond Swanland,5,,{W}{U}{B}{R}{G},Niv-Mizzet Reborn,6,2.29,mythic,"Flying
+When Niv-Mizzet Reborn enters the battlefield, reveal the top ten cards of your library. For each color pair, choose a card that's exactly those colors from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order.",6,Legendary Creature — Dragon Avatar
+Richard Wright,0,,,Forest,,0.14,common,({T}: Add {G}.),,Basic Land — Forest
+Richard Wright,0,,,Island,,0.12,common,({T}: Add {U}.),,Basic Land — Island
+Richard Wright,0,,,Mountain,,0.14,common,({T}: Add {R}.),,Basic Land — Mountain
+Richard Wright,0,,,Plains,,0.14,common,({T}: Add {W}.),,Basic Land — Plains
+Richard Wright,0,,,Swamp,,0.14,common,({T}: Add {B}.),,Basic Land — Swamp
+Robbie Trevino,5,,{3}{B}{B},Boneclad Necromancer,3,0.15,common,"When Boneclad Necromancer enters the battlefield, you may exile target creature card from a graveyard. If you do, create a 2/2 black Zombie creature token.",3,Creature — Human Wizard
+Rudy Siswanto,3,,{2}{G},Ferocious Pup,0,0.15,common,"When Ferocious Pup enters the battlefield, create a 2/2 green Wolf creature token.",1,Creature — Wolf
+Rudy Siswanto,2,,{U}{R},Lightning Stormkin,2,0.22,uncommon,"Flying
+Haste (This creature can attack and {T} as soon as it comes under your control.)",2,Creature — Elemental Wizard
+Rudy Siswanto,2,,{1}{U},Moat Piranhas,3,0.15,common,Defender (This creature can't attack.),3,Creature — Fish
+Rudy Siswanto,4,,{3}{G},Prized Unicorn,2,2.2,common,All creatures able to block Prized Unicorn do so.,2,Creature — Unicorn
+Ryan Pancoast,6,,{3}{U}{U}{U},"Atemsis, All-Seeing",4,0.36,rare,"Flying
+{2}{U}, {T}: Draw two cards, then discard a card.
+Whenever Atemsis, All-Seeing deals damage to an opponent, you may reveal your hand. If cards with at least six different converted mana costs are revealed this way, that player loses the game.",5,Legendary Creature — Sphinx
+Ryan Pancoast,3,,{2}{G},Gift of Paradise,,0.15,common,"Enchant land
+When Gift of Paradise enters the battlefield, you gain 3 life.
+Enchanted land has ""{T}: Add two mana of any one color.""",,Enchantment — Aura
+Ryan Pancoast,2,,{1}{G},Titanic Growth,,0.23,common,Target creature gets +4/+4 until end of turn.,,Instant
+Ryan Pancoast,6,7,{4}{G}{G},"Arlinn, Voice of the Pack",,0.25,uncommon,"Each creature you control that's a Wolf or a Werewolf enters the battlefield with an additional +1/+1 counter on it.
+[−2]: Create a 2/2 green Wolf creature token.",,Legendary Planeswalker — Arlinn
+Ryan Pancoast,5,,{2}{G}{G}{W},"Tolsimir, Friend to Wolves",3,0.44,rare,"When Tolsimir, Friend to Wolves enters the battlefield, create Voja, Friend to Elves, a legendary 3/3 green and white Wolf creature token.
+Whenever a Wolf enters the battlefield under your control, you gain 3 life and that creature fights up to one target creature you don't control.",3,Legendary Creature — Elf Scout
+Ryan Yee,6,,{4}{U}{U},Riddlemaster Sphinx,5,0.99,rare,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Riddlemaster Sphinx enters the battlefield, you may return target creature an opponent controls to its owner's hand.",5,Creature — Sphinx
+Ryan Yee,1,,{W},Yoked Ox,0,0.15,common,,4,Creature — Ox
+Ryan Yee,1,,{B},Price of Betrayal,,0.23,uncommon,"Remove up to five counters from target artifact, creature, planeswalker, or opponent.",,Sorcery
+Ryan Yee,0,,{X},Ugin's Conjurant,0,0.2,uncommon,"Ugin's Conjurant enters the battlefield with X +1/+1 counters on it.
+If damage would be dealt to Ugin's Conjurant while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from Ugin's Conjurant.",0,Creature — Spirit Monk
+Ryota Murayama,4,5,{2}{B/G}{B/G},"Vraska, Swarm's Eminence",,,uncommon,"Whenever a creature you control with deathtouch deals damage to a player or planeswalker, put a +1/+1 counter on that creature.
+[−2]: Create a 1/1 black Assassin creature token with deathtouch and ""Whenever this creature deals damage to a planeswalker, destroy that planeswalker.""",,Legendary Planeswalker — Vraska
+Ryota-H,4,4,{2}{R}{R},"Chandra, Fire Artisan",,,rare,"Whenever one or more loyalty counters are removed from Chandra, Fire Artisan, she deals that much damage to target opponent or planeswalker.
+[+1]: Exile the top card of your library. You may play it this turn.
+[−7]: Exile the top seven cards of your library. You may play them this turn.",,Legendary Planeswalker — Chandra
+Sam Burley,0,,,Blossoming Sands,,0.16,common,"Blossoming Sands enters the battlefield tapped.
+When Blossoming Sands enters the battlefield, you gain 1 life.
+{T}: Add {G} or {W}.",,Land
+Sam Burley,0,,,Dismal Backwater,,0.16,common,"Dismal Backwater enters the battlefield tapped.
+When Dismal Backwater enters the battlefield, you gain 1 life.
+{T}: Add {U} or {B}.",,Land
+Sam Burley,0,,,Mountain,,0.24,common,({T}: Add {R}.),,Basic Land — Mountain
+Sam Rowan,4,,{3}{W},Ironclad Krovod,2,1.91,common,,5,Creature — Beast
+Sam Rowan,4,,{3}{W},Ironclad Krovod,2,0.14,common,,5,Creature — Beast
+Sansyu,4,5,{2}{B/R}{B/R},"Angrath, Captain of Chaos",,,uncommon,"Creatures you control have menace.
+[−2]: Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",,Legendary Planeswalker — Angrath
+Sansyu,5,5,{3}{B}{B},"Ob Nixilis, the Hate-Twisted",,,uncommon,"Whenever an opponent draws a card, Ob Nixilis, the Hate-Twisted deals 1 damage to that player.
+[−2]: Destroy target creature. Its controller draws two cards.",,Legendary Planeswalker — Nixilis
+Sara Winters,6,,{4}{W}{W},Angelic Guardian,5,9.15,rare,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever one or more creatures you control attack, they gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",5,Creature — Angel
+Sara Winters,2,,{1}{B},Aid the Fallen,,0.15,common,"Choose one or both —
+• Return target creature card from your graveyard to your hand.
+• Return target planeswalker card from your graveyard to your hand.",,Sorcery
+Sara Winters,2,,{G}{U},Merfolk Skydiver,1,0.21,uncommon,"Flying
+When Merfolk Skydiver enters the battlefield, put a +1/+1 counter on target creature you control.
+{3}{G}{U}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",1,Creature — Merfolk Mutant
+Sara Winters,5,,{4}{W},Wanderer's Strike,,0.14,common,"Exile target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",,Sorcery
+Scott Chou,2,,{1}{U},Metropolis Sprite,1,0.15,common,"Flying
+{U}: Metropolis Sprite gets +1/-1 until end of turn.",2,Creature — Faerie Rogue
+Scott Chou,3,,{2}{G},Natural End,,0.15,common,Destroy target artifact or enchantment. You gain 3 life.,,Instant
+Scott M. Fischer,3,,{2}{W},Rule of Law,,0.26,uncommon,Each player can't cast more than one spell each turn.,,Enchantment
+Scott Murphy,2,,{1}{W},Ancestral Blade,,0.2,uncommon,"When Ancestral Blade enters the battlefield, create a 1/1 white Soldier creature token, then attach Ancestral Blade to it.
+Equipped creature gets +1/+1.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",,Artifact — Equipment
+Scott Murphy,4,,{3}{W},Imperial Outrider,1,6.02,common,,5,Creature — Human Knight
+Scott Murphy,2,,{1}{W},Battlefield Promotion,,0.13,common,Put a +1/+1 counter on target creature. That creature gains first strike until end of turn. You gain 2 life.,,Instant
+Seb McKinnon,4,,{3}{B},Agonizing Syphon,,0.15,common,Agonizing Syphon deals 3 damage to any target and you gain 3 life.,,Sorcery
+Seb McKinnon,4,,{3}{B},Blood for Bones,,0.25,uncommon,"As an additional cost to cast this spell, sacrifice a creature.
+Return a creature card from your graveyard to the battlefield, then return another creature card from your graveyard to your hand.",,Sorcery
+Seb McKinnon,3,,{2}{B},Mind Rot,,0.15,common,Target player discards two cards.,,Sorcery
+Seb McKinnon,1,,{B},Scheming Symmetry,,3.5,rare,"Choose two target players. Each of them searches their library for a card, then shuffles their library and puts that card on top of it.",,Sorcery
+Seb McKinnon,3,,{2}{B},Unholy Indenture,,0.15,common,"Enchant creature
+When enchanted creature dies, return that card to the battlefield under your control with a +1/+1 counter on it.",,Enchantment — Aura
+Seb McKinnon,4,,{1}{B}{B}{G},Deathsprout,,0.25,uncommon,"Destroy target creature. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",,Instant
+Seb McKinnon,3,,{2}{B},Deliver Unto Evil,,0.47,rare,"Choose up to four target cards in your graveyard. If you control a Bolas planeswalker, return those cards to your hand. Otherwise, an opponent chooses two of them. Leave the chosen cards in your graveyard and put the rest into your hand.
+Exile Deliver Unto Evil.",,Sorcery
+Shishizaru,3,4,{1}{W}{U},"Teferi, Time Raveler",,,rare,"Each opponent can cast spells only any time they could cast a sorcery.
+[+1]: Until your next turn, you may cast sorcery spells as though they had flash.
+[−3]: Return up to one target artifact, creature, or enchantment to its owner's hand. Draw a card.",,Legendary Planeswalker — Teferi
+Sidharth Chaturvedi,6,,{4}{B}{B},Bloodsoaked Altar,,0.2,uncommon,"{T}, Pay 2 life, Discard a card, Sacrifice a creature: Create a 5/5 black Demon creature token with flying. Activate this ability only any time you could cast a sorcery.",,Artifact
+Sidharth Chaturvedi,4,,{2}{R}{R},Engulfing Eruption,,0.78,common,Engulfing Eruption deals 5 damage to target creature.,,Sorcery
+Sidharth Chaturvedi,2,,{1}{W},Ajani's Pridemate,2,0.2,uncommon,"Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.",2,Creature — Cat Soldier
+Sidharth Chaturvedi,3,,{2}{R},Blindblast,,0.14,common,"Blindblast deals 1 damage to target creature. That creature can't block this turn.
+Draw a card.",,Instant
+Sidharth Chaturvedi,2,,{1}{W},Pouncing Lynx,2,0.14,common,"As long as it's your turn, Pouncing Lynx has first strike.",1,Creature — Cat
+Sidharth Chaturvedi,3,,{2}{W},Topple the Statue,,0.14,common,"Tap target permanent. If it's an artifact, destroy it.
+Draw a card.",,Instant
+Simon Dominic,3,,{2}{G},Evolution Sage,3,0.8,uncommon,"Whenever a land enters the battlefield under your control, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",2,Creature — Elf Druid
+Slawomir Maniak,4,5,{2}{B/R}{B/R},"Angrath, Captain of Chaos",,0.25,uncommon,"Creatures you control have menace.
+[−2]: Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",,Legendary Planeswalker — Angrath
+Slawomir Maniak,2,,{W}{B},Despark,,0.5,uncommon,Exile target permanent with converted mana cost 4 or greater.,,Instant
+Slawomir Maniak,5,,{4}{W},Ignite the Beacon,,0.39,rare,"Search your library for up to two planeswalker cards, reveal them, put them into your hand, then shuffle your library.",,Instant
+Stanton Feng,2,,{1}{B},Dreadhorde Invasion,,2,rare,"At the beginning of your upkeep, you lose 1 life and amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Whenever a Zombie token you control with power 6 or greater attacks, it gains lifelink until end of turn.",,Enchantment
+Stanton Feng,2,,{X}{W}{W},Finale of Glory,,1.99,mythic,"Create X 2/2 white Soldier creature tokens with vigilance. If X is 10 or more, also create X 4/4 white Angel creature tokens with flying and vigilance.",,Sorcery
+Stanton Feng,4,,{3}{U},Relentless Advance,,0.14,common,"Amass 3. (Put three +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",,Sorcery
+Steve Prescott,2,,{R}{R},Ember Hauler,2,0.24,uncommon,"{1}, Sacrifice Ember Hauler: It deals 2 damage to any target.",2,Creature — Goblin
+Steve Prescott,2,,{1}{U},Zephyr Charge,,0.15,common,{1}{U}: Target creature gains flying until end of turn.,,Enchantment
+Steve Prescott,2,,{1}{G},Kronch Wrangler,2,0.15,common,"Trample
+Whenever a creature with power 4 or greater enters the battlefield under your control, put a +1/+1 counter on Kronch Wrangler.",1,Creature — Human Warrior
+Steve Prescott,3,,{2}{R},Raging Kronch,4,0.15,common,Raging Kronch can't attack alone.,3,Creature — Beast
+Steven Belledin,1,,{B},Duress,,0.15,common,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",,Sorcery
+Steven Belledin,0,,,Evolving Wilds,,0.17,common,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",,Land
+Steven Belledin,1,,{U},Faerie Miscreant,1,0.17,common,"Flying
+When Faerie Miscreant enters the battlefield, if you control another creature named Faerie Miscreant, draw a card.",1,Creature — Faerie Rogue
+Steven Belledin,0,,,Forest,,0.19,common,({T}: Add {G}.),,Basic Land — Forest
+Steven Belledin,6,,{4}{U}{U},Frilled Sea Serpent,4,0.15,common,{5}{U}{U}: Frilled Sea Serpent can't be blocked this turn.,6,Creature — Serpent
+Sung Choi,0,,,Cryptic Caves,,0.32,uncommon,"{T}: Add {C}.
+{1}, {T}, Sacrifice Cryptic Caves: Draw a card. Activate this ability only if you control five or more lands.",,Land
+Sung Choi,0,,,Gateway Plaza,,0.15,common,"Gateway Plaza enters the battlefield tapped.
+When Gateway Plaza enters the battlefield, sacrifice it unless you pay {1}.
+{T}: Add one mana of any color.",,Land — Gate
+Sung Choi,3,,{1}{U}{R},Invade the City,,0.2,uncommon,"Amass X, where X is the number of instant and sorcery cards in your graveyard. (Put X +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",,Sorcery
+Suzanne Helmigh,3,,{2}{R},Fearless Halberdier,3,0.25,common,,2,Creature — Human Warrior
+Svetlin Velinov,3,,{2}{U},Befuddle,,0.15,common,"Target creature gets -4/-0 until end of turn.
+Draw a card.",,Instant
+Svetlin Velinov,4,,{3}{G},Bristling Boar,4,1.09,common,Bristling Boar can't be blocked by more than one creature.,3,Creature — Boar
+Svetlin Velinov,2,,{1}{B},Dark Remedy,,0.35,common,Target creature gets +1/+3 until end of turn.,,Instant
+Svetlin Velinov,2,,{1}{G},Growth Cycle,,0.15,common,Target creature gets +3/+3 until end of turn. It gets an additional +2/+2 until end of turn for each card named Growth Cycle in your graveyard.,,Instant
+Svetlin Velinov,2,,{1}{R},Pack Mastiff,2,0.15,common,{1}{R}: Each creature you control named Pack Mastiff gets +1/+0 until end of turn.,2,Creature — Hound
+Svetlin Velinov,5,,{3}{R}{R},Pyroclastic Elemental,5,0.33,uncommon,{1}{R}{R}: Pyroclastic Elemental deals 1 damage to target player.,4,Creature — Elemental
+Svetlin Velinov,3,,{2}{U},Sage's Row Denizen,2,0.15,common,"Whenever another blue creature enters the battlefield under your control, target player puts the top two cards of their library into their graveyard.",3,Creature — Vedalken Wizard
+Svetlin Velinov,4,,{2}{R}{R},Wildfire Elemental,3,0.25,common,"Whenever an opponent is dealt noncombat damage, creatures you control get +1/+0 until end of turn.",3,Creature — Elemental
+Svetlin Velinov,4,,{3}{R},Bolt Bend,,0.2,uncommon,"This spell costs {3} less to cast if you control a creature with power 4 or greater.
+Change the target of target spell or ability with a single target.",,Instant
+Svetlin Velinov,5,,{4}{G},Challenger Troll,6,0.2,uncommon,Each creature you control with power 4 or greater can't be blocked by more than one creature.,5,Creature — Troll
+Svetlin Velinov,2,,{1}{G},Forced Landing,,0.14,common,Put target creature with flying on the bottom of its owner's library.,,Instant
+Svetlin Velinov,6,,{4}{G}{G},Primordial Wurm,7,0.14,common,,6,Creature — Wurm
+Svetlin Velinov,5,,{2}{G}{G}{U},"Roalesk, Apex Hybrid",4,1.75,mythic,"Flying, trample
+When Roalesk, Apex Hybrid enters the battlefield, put two +1/+1 counters on another target creature you control.
+When Roalesk dies, proliferate, then proliferate again. (Choose any number of permanents and/or players, then give each another counter of each kind already there. Then do it again.)",5,Legendary Creature — Human Mutant
+Svetlin Velinov,5,,{2}{W}{W}{U},Time Wipe,,0.65,rare,"Return a creature you control to its owner's hand, then destroy all creatures.",,Sorcery
+Svetlin Velinov,2,,{U}{B},Tyrant's Scorn,,0.3,uncommon,"Choose one —
+• Destroy target creature with converted mana cost 3 or less.
+• Return target creature to its owner's hand.",,Instant
+Tada,3,4,{1}{W}{W},Gideon Blackblade,,,mythic,"As long as it's your turn, Gideon Blackblade is a 4/4 Human Soldier creature with indestructible that's still a planeswalker.
+Prevent all damage that would be dealt to Gideon Blackblade during your turn.
+[+1]: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn.
+[−6]: Exile target nonland permanent.",,Legendary Planeswalker — Gideon
+Titus Lunter,4,,{4},Mystic Forge,,1.85,rare,"You may look at the top card of your library any time.
+You may cast the top card of your library if it's an artifact card or a colorless nonland card.
+{T}, Pay 1 life: Exile the top card of your library.",,Artifact
+Titus Lunter,0,,,Temple of Malady,,1.83,rare,"Temple of Malady enters the battlefield tapped.
+When Temple of Malady enters the battlefield, scry 1.
+{T}: Add {B} or {G}.",,Land
+Titus Lunter,0,,,Forest,,0.11,common,({T}: Add {G}.),,Basic Land — Forest
+Titus Lunter,0,,,Mountain,,0.17,common,({T}: Add {R}.),,Basic Land — Mountain
+Titus Lunter,0,,,Swamp,,0.15,common,({T}: Add {B}.),,Basic Land — Swamp
+Todd Lockwood,4,,{3}{U},Snapping Drake,3,1.81,common,Flying (This creature can't be blocked except by creatures with flying or reach.),2,Creature — Drake
+Tomasz Jedruszek,2,,{1}{U},Aether Gust,,0.25,uncommon,Choose target spell or permanent that's red or green. Its owner puts it on the top or bottom of their library.,,Instant
+Tomasz Jedruszek,5,,{3}{U}{U},Air Elemental,4,0.22,uncommon,Flying,4,Creature — Elemental
+Tomasz Jedruszek,2,,{1}{R},Fry,,0.43,uncommon,"This spell can't be countered.
+Fry deals 5 damage to target creature or planeswalker that's white or blue.",,Instant
+Tomasz Jedruszek,2,,{1}{B},Noxious Grasp,,0.25,uncommon,Destroy target creature or planeswalker that's green or white. You gain 1 life.,,Instant
+Tomasz Jedruszek,3,,{2}{R},Ahn-Crop Invader,2,0.14,common,"As long as it's your turn, Ahn-Crop Invader has first strike.
+{1}, Sacrifice another creature: Ahn-Crop Invader gets +2/+0 until end of turn.",2,Creature — Zombie Minotaur Warrior
+Tomasz Jedruszek,6,,{2}{B}{B}{G}{G},Casualties of War,,0.57,rare,"Choose one or more —
+• Destroy target artifact.
+• Destroy target creature.
+• Destroy target enchantment.
+• Destroy target land.
+• Destroy target planeswalker.",,Sorcery
+Tomasz Jedruszek,2,,{1}{B},Eternal Taskmaster,2,0.2,uncommon,"Eternal Taskmaster enters the battlefield tapped.
+Whenever Eternal Taskmaster attacks, you may pay {2}{B}. If you do, return target creature card from your graveyard to your hand.",3,Creature — Zombie
+Tomasz Jedruszek,3,,{2}{W},Rising Populace,2,0.14,common,"Whenever another creature or planeswalker you control dies, put a +1/+1 counter on Rising Populace.",2,Creature — Human
+Tomasz Jedruszek,3,,{1}{R}{G},Rubblebelt Rioters,0,0.2,uncommon,"Haste
+Whenever Rubblebelt Rioters attacks, it gets +X/+0 until end of turn, where X is the greatest power among creatures you control.",4,Creature — Human Berserker
+Tommy Arnold,4,4,{2}{W}{B},"Sorin, Vengeful Bloodlord",,2.24,rare,"As long as it's your turn, creatures and planeswalkers you control have lifelink.
+[+2]: Sorin, Vengeful Bloodlord deals 1 damage to target player or planeswalker.
+−X: Return target creature card with converted mana cost X from your graveyard to the battlefield. That creature is a Vampire in addition to its other types.",,Legendary Planeswalker — Sorin
+Tony Foti,4,,{3}{B},Gravedigger,2,0.24,uncommon,"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.",2,Creature — Zombie
+Toshiaki Takayama,4,4,{1}{U}{U}{U},"Jace, Wielder of Mysteries",,,rare,"If you would draw a card while your library has no cards in it, you win the game instead.
+[+1]: Target player puts the top two cards of their library into their graveyard. Draw a card.
+[−8]: Draw seven cards. Then if your library has no cards in it, you win the game.",,Legendary Planeswalker — Jace
+Tyler Jacobson,2,,{1}{U},Anticipate,,0.15,common,Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.,,Instant
+Tyler Jacobson,8,,{5}{B}{B}{B},"Vilis, Broker of Blood",8,1.25,rare,"Flying
+{B}, Pay 2 life: Target creature gets -1/-1 until end of turn.
+Whenever you lose life, draw that many cards. (Damage causes loss of life.)",8,Legendary Creature — Demon
+Tyler Walpole,2,,{1}{G},Bond of Flourishing,,0.2,uncommon,Look at the top three cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order. You gain 3 life.,,Sorcery
+Uriah Voth,2,,{1}{G},Woodland Mystic,1,3.99,common,{T}: Add {G}.,1,Creature — Elf Druid
+Uriah Voth,2,,{1}{U},Kasmina's Transmutation,,0.15,common,"Enchant creature
+Enchanted creature loses all abilities and has base power and toughness 1/1.",,Enchantment — Aura
+Vance Kovacs,3,,{2}{G},Centaur Courser,3,0.15,common,,3,Creature — Centaur Warrior
+Victor Adame Minguez,5,,{4}{U},Boreal Elemental,3,0.15,common,"Flying
+Spells your opponents cast that target Boreal Elemental cost {2} more to cast.",4,Creature — Elemental
+Victor Adame Minguez,2,,{1}{W},Disenchant,,0.15,common,Destroy target artifact or enchantment.,,Instant
+Victor Adame Minguez,1,,{G},Elvish Reclaimer,1,1.95,rare,"Elvish Reclaimer gets +2/+2 as long as there are three or more land cards in your graveyard.
+{2}, {T}, Sacrifice a land: Search your library for a land card, put it onto the battlefield tapped, then shuffle your library.",2,Creature — Elf Warrior
+Victor Adame Minguez,4,,{3}{R},Lavakin Brawler,2,0.15,common,"Whenever Lavakin Brawler attacks, it gets +1/+0 until end of turn for each Elemental you control.",4,Creature — Elemental Warrior
+Victor Adame Minguez,6,,{5}{U},Masterful Replication,,0.34,rare,"Choose one —
+• Create two 3/3 colorless Golem artifact creature tokens.
+• Choose target artifact you control. Each other artifact you control becomes a copy of that artifact until end of turn.",,Instant
+Victor Adame Minguez,4,5,{2}{G}{W},"Ajani, the Greathearted",,1.23,rare,"Creatures you control have vigilance.
+[+1]: You gain 3 life.
+[−2]: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.",,Legendary Planeswalker — Ajani
+Victor Adame Minguez,2,,{B}{R},Angrath's Rampage,,0.45,uncommon,"Choose one —
+• Target player sacrifices an artifact.
+• Target player sacrifices a creature.
+• Target player sacrifices a planeswalker.",,Sorcery
+Victor Adame Minguez,6,,{5}{W},Bulwark Giant,3,0.14,common,"When Bulwark Giant enters the battlefield, you gain 5 life.",6,Creature — Giant Soldier
+Victor Adame Minguez,2,,{R}{G},Domri's Ambush,,0.2,uncommon,Put a +1/+1 counter on target creature you control. Then that creature deals damage equal to its power to target creature or planeswalker you don't control.,,Sorcery
+Victor Adame Minguez,2,,{1}{R},Jaya's Greeting,,0.15,common,Jaya's Greeting deals 3 damage to target creature. Scry 1.,,Instant
+Victor Adame Minguez,2,,{R}{W},Tenth District Legionnaire,2,0.25,uncommon,"Haste
+Whenever you cast a spell that targets Tenth District Legionnaire, put a +1/+1 counter on Tenth District Legionnaire, then scry 1.",2,Creature — Human Soldier
+Victor Adame Minguez,4,,{1}{B}{R}{R},Widespread Brutality,,0.39,rare,"Amass 2, then the Army you amassed deals damage equal to its power to each non-Army creature. (To amass 2, put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",,Sorcery
+Viktor Titov,5,,{2}{U}{U}{U},Cavalier of Gales,5,3.82,mythic,"Flying
+When Cavalier of Gales enters the battlefield, draw three cards, then put two cards from your hand on top of your library in any order.
+When Cavalier of Gales dies, shuffle it into its owner's library, then scry 2.",5,Creature — Elemental Knight
+Viktor Titov,5,,{2}{B}{B}{B},Cavalier of Night,4,4,mythic,"Lifelink
+When Cavalier of Night enters the battlefield, you may sacrifice another creature. When you do, destroy target creature an opponent controls.
+When Cavalier of Night dies, return target creature card with converted mana cost 3 or less from your graveyard to the battlefield.",5,Creature — Elemental Knight
+Viktor Titov,3,,{2}{U},Convolute,,0.15,common,Counter target spell unless its controller pays {4}.,,Instant
+Viktor Titov,3,,{2}{R},Flame Sweep,,0.25,uncommon,Flame Sweep deals 2 damage to each creature except for creatures you control with flying.,,Instant
+Viktor Titov,3,4,{1}{W}{W},Gideon Blackblade,,9.49,mythic,"As long as it's your turn, Gideon Blackblade is a 4/4 Human Soldier creature with indestructible that's still a planeswalker.
+Prevent all damage that would be dealt to Gideon Blackblade during your turn.
+[+1]: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn.
+[−6]: Exile target nonland permanent.",,Legendary Planeswalker — Gideon
+Viktor Titov,2,,{U}{U},Narset's Reversal,,2.13,rare,"Copy target instant or sorcery spell, then return it to its owner's hand. You may choose new targets for the copy.",,Instant
+Viktor Titov,2,,{1}{B},Unlikely Aid,,0.14,common,"Target creature gets +2/+0 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",,Instant
+Vincent Proce,4,,{3}{U},Fortress Crab,1,0.15,common,,6,Creature — Crab
+Volkan Baǵa,2,,{1}{W},Daybreak Chaplain,1,0.15,common,Lifelink (Damage dealt by this creature also causes you to gain that much life.),3,Creature — Human Cleric
+Volkan Baǵa,0,,,Forest,,0.25,common,({T}: Add {G}.),,Basic Land — Forest
+Volkan Baǵa,6,,{4}{R}{R},Ripscale Predator,6,0.15,common,Menace (This creature can't be blocked except by two or more creatures.),5,Creature — Dinosaur
+Volkan Baǵa,3,,{1}{U}{B},Gleaming Overseer,1,0.22,uncommon,"When Gleaming Overseer enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Zombie tokens you control have hexproof and menace.",4,Creature — Zombie Wizard
+Warren Mahy,3,,{2}{W},Griffin Sentinel,1,0.15,common,"Flying
+Vigilance (Attacking doesn't cause this creature to tap.)",3,Creature — Griffin
+Wayne Reynolds,4,,{2}{W}{W},Inspired Charge,,0.15,common,Creatures you control get +2/+1 until end of turn.,,Instant
+Wayne Reynolds,3,,{2}{G},Oakenform,,1.79,common,"Enchant creature
+Enchanted creature gets +3/+3.",,Enchantment — Aura
+Wayne Reynolds,2,,{X}{G}{G},Voracious Hydra,0,1,rare,"Trample
+Voracious Hydra enters the battlefield with X +1/+1 counters on it.
+When Voracious Hydra enters the battlefield, choose one —
+• Double the number of +1/+1 counters on Voracious Hydra.
+• Voracious Hydra fights target creature you don't control.",1,Creature — Hydra
+Wayne Reynolds,3,,{R}{W}{W},"Feather, the Redeemed",3,2,rare,"Flying
+Whenever you cast an instant or sorcery spell that targets a creature you control, exile that card instead of putting it into your graveyard as it resolves. If you do, return it to your hand at the beginning of the next end step.",4,Legendary Creature — Angel
+Wayne Reynolds,3,,{1}{R}{R},Mizzium Tank,3,0.34,rare,"Trample
+Whenever you cast a noncreature spell, Mizzium Tank becomes an artifact creature and gets +1/+1 until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",2,Artifact — Vehicle
+Wesley Burt,5,,{2}{R}{R}{R},Cavalier of Flame,6,2.99,mythic,"{1}{R}: Creatures you control get +1/+0 and gain haste until end of turn.
+When Cavalier of Flame enters the battlefield, discard any number of cards, then draw that many cards.
+When Cavalier of Flame dies, it deals X damage to each opponent and each planeswalker they control, where X is the number of land cards in your graveyard.",5,Creature — Elemental Knight
+Wesley Burt,3,,{1}{W}{B},Oath of Kaya,,0.5,rare,"When Oath of Kaya enters the battlefield, it deals 3 damage to any target and you gain 3 life.
+Whenever an opponent attacks a planeswalker you control with one or more creatures, Oath of Kaya deals 2 damage to that player and you gain 2 life.",,Legendary Enchantment
+Wesley Burt,4,4,{2}{U}{R},"Ral, Storm Conduit",,1.34,rare,"Whenever you cast or copy an instant or sorcery spell, Ral, Storm Conduit deals 1 damage to target opponent or planeswalker.
+[+2]: Scry 1.
+[−2]: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",,Legendary Planeswalker — Ral
+Wesley Burt,3,5,{1}{U/R}{U/R},"Saheeli, Sublime Artificer",,0.99,uncommon,"Whenever you cast a noncreature spell, create a 1/1 colorless Servo artifact creature token.
+[−2]: Target artifact you control becomes a copy of another target artifact or creature you control until end of turn, except it's an artifact in addition to its other types.",,Legendary Planeswalker — Saheeli
+Wesley Burt,4,5,{3}{W},The Wanderer,,0.35,uncommon,"Prevent all noncombat damage that would be dealt to you and other permanents you control.
+[−2]: Exile target creature with power 4 or greater.",,Legendary Planeswalker
+Winona Nelson,2,,{1}{B},Bladebrand,,0.15,common,"Target creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
+Draw a card.",,Instant
+Wisnu Tan,4,5,{4},"Karn, the Great Creator",,9.99,rare,"Activated abilities of artifacts your opponents control can't be activated.
+[+1]: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.
+[−2]: You may choose an artifact card you own from outside the game or in exile, reveal that card, and put it into your hand.",,Legendary Planeswalker — Karn
+Wisnu Tan,7,,{5}{G}{G},Planewide Celebration,,0.4,rare,"Choose four. You may choose the same mode more than once.
+• Create a 2/2 Citizen creature token that's all colors.
+• Return target permanent card from your graveyard to your hand.
+• Proliferate.
+• You gain 4 life.",,Sorcery
+Wisnu Tan,6,,{5}{B},Tithebearer Giant,4,0.15,common,"When Tithebearer Giant enters the battlefield, you draw a card and you lose 1 life.",5,Creature — Giant Warrior
+Yamamoto Akifumi,3,7,{2}{G/U},"Kiora, Behemoth Beckoner",,,uncommon,"Whenever a creature with power 4 or greater enters the battlefield under your control, draw a card.
+[−1]: Untap target permanent.",,Legendary Planeswalker — Kiora
+Yeong-Hao Han,2,,{1}{U},Waterkin Shaman,2,0.46,uncommon,"Whenever a creature with flying enters the battlefield under your control, Waterkin Shaman gets +1/+1 until end of turn.",1,Creature — Elemental Shaman
+Yeong-Hao Han,2,,{1}{U},Lazotep Plating,,0.25,uncommon,"Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+You and permanents you control gain hexproof until end of turn. (You and they can't be the targets of spells or abilities your opponents control.)",,Instant
+Yeong-Hao Han,2,,{1}{G},Snarespinner,1,0.14,common,"Reach
+Whenever Snarespinner blocks a creature with flying, Snarespinner gets +2/+0 until end of turn.",3,Creature — Spider
+Yeong-Hao Han,4,,{3}{U},Thunder Drake,2,0.15,common,"Flying
+Whenever you cast your second spell each turn, put a +1/+1 counter on Thunder Drake.",3,Creature — Elemental Drake
+Yohann Schepacz,3,,{2}{G},Netcaster Spider,2,0.15,common,"Reach (This creature can block creatures with flying.)
+Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider gets +2/+0 until end of turn.",3,Creature — Spider
+Yongjae Choi,6,5,{4}{W}{W},"Ajani, Inspiring Leader",,,mythic,"[+2]: You gain 2 life. Put two +1/+1 counters on up to one target creature.
+[−3]: Exile target creature. Its controller gains 2 life.
+[−10]: Creatures you control gain flying and double strike until end of turn.",,Legendary Planeswalker — Ajani
+Yongjae Choi,5,,{4}{W},Dawning Angel,3,0.15,common,"Flying
+When Dawning Angel enters the battlefield, you gain 4 life.",2,Creature — Angel
+Yongjae Choi,3,,{R}{W}{B},"Kaalia, Zenith Seeker",3,3.5,mythic,"Flying, vigilance
+When Kaalia, Zenith Seeker enters the battlefield, look at the top six cards of your library. You may reveal an Angel card, a Demon card, and/or a Dragon card from among them and put them into your hand. Put the rest on the bottom of your library in a random order.",3,Legendary Creature — Human Cleric
+Yongjae Choi,3,,{W}{B}{G},"Kethis, the Hidden Hand",3,3.14,mythic,"Legendary spells you cast cost {1} less to cast.
+Exile two legendary cards from your graveyard: Until end of turn, each legendary card in your graveyard gains ""You may play this card from your graveyard.""",4,Legendary Creature — Elf Advisor
+Yongjae Choi,6,5,{4}{U}{U},"Mu Yanling, Celestial Wind",,,mythic,"[+1]: Until your next turn, up to one target creature gets -5/-0.
+[−3]: Return up to two target creatures to their owners' hands.
+[−7]: Creatures you control with flying get +5/+5 until end of turn.",,Legendary Planeswalker — Yanling
+Yongjae Choi,2,,{1}{R},Thunderkin Awakener,1,1.29,rare,"Haste
+Whenever Thunderkin Awakener attacks, choose target Elemental creature card in your graveyard with toughness less than Thunderkin Awakener's toughness. Return that card to the battlefield tapped and attacking. Sacrifice it at the beginning of the next end step.",2,Creature — Elemental Shaman
+Yongjae Choi,4,4,{1}{G}{G}{G},"Vivien, Arkbow Ranger",,5.12,mythic,"[+1]: Distribute two +1/+1 counters among up to two target creatures. They gain trample until end of turn.
+[−3]: Target creature you control deals damage equal to its power to target creature or planeswalker.
+[−5]: You may choose a creature card you own from outside the game, reveal it, and put it into your hand.",,Legendary Planeswalker — Vivien
+Yongjae Choi,4,4,{2}{R}{R},"Chandra, Fire Artisan",,2.65,rare,"Whenever one or more loyalty counters are removed from Chandra, Fire Artisan, she deals that much damage to target opponent or planeswalker.
+[+1]: Exile the top card of your library. You may play it this turn.
+[−7]: Exile the top seven cards of your library. You may play them this turn.",,Legendary Planeswalker — Chandra
+Yongjae Choi,5,5,{4}{R},"Jaya, Venerated Firemage",,0.25,uncommon,"If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.
+[−2]: Jaya, Venerated Firemage deals 2 damage to any target.",,Legendary Planeswalker — Jaya
+Yongjae Choi,5,5,{3}{B}{B},"Ob Nixilis, the Hate-Twisted",,0.29,uncommon,"Whenever an opponent draws a card, Ob Nixilis, the Hate-Twisted deals 1 damage to that player.
+[−2]: Destroy target creature. Its controller draws two cards.",,Legendary Planeswalker — Nixilis
+Yongjae Choi,2,,{1}{R},Tibalt's Rager,1,0.2,uncommon,"When Tibalt's Rager dies, it deals 1 damage to any target.
+{1}{R}: Tibalt's Rager gets +2/+0 until end of turn.",2,Creature — Devil
+Yoshitaka Amano,6,6,{4}{B}{B},"Liliana, Dreadhorde General",,,mythic,"Whenever a creature you control dies, draw a card.
+[+1]: Create a 2/2 black Zombie creature token.
+[−4]: Each player sacrifices two creatures.
+[−9]: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest.",,Legendary Planeswalker — Liliana
+Yukie Tajima,4,6,{2}{R/W}{R/W},"Nahiri, Storm of Stone",,,uncommon,"As long as it's your turn, creatures you control have first strike and equip abilities you activate cost {1} less to activate.
+−X: Nahiri, Storm of Stone deals X damage to target tapped creature.",,Legendary Planeswalker — Nahiri
+Yukie Tajima,4,4,{2}{W}{B},"Sorin, Vengeful Bloodlord",,,rare,"As long as it's your turn, creatures and planeswalkers you control have lifelink.
+[+2]: Sorin, Vengeful Bloodlord deals 1 damage to target player or planeswalker.
+−X: Return target creature card with converted mana cost X from your graveyard to the battlefield. That creature is a Vampire in addition to its other types.",,Legendary Planeswalker — Sorin
+YW Tang,4,,{2}{G}{G},Gnarlback Rhino,4,0.4,uncommon,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever you cast a spell that targets Gnarlback Rhino, draw a card.",4,Creature — Rhino
+YW Tang,1,,{B},Banehound,1,0.15,common,"Lifelink, haste",1,Creature — Nightmare Hound
+YW Tang,3,,{1}{B}{G},Leyline Prowler,2,0.25,uncommon,"Deathtouch, lifelink
+{T}: Add one mana of any color.",3,Creature — Nightmare Beast
+Zack Stella,3,,{1}{R}{R},Glint-Horn Buccaneer,2,0.35,rare,"Haste
+Whenever you discard a card, Glint-Horn Buccaneer deals 1 damage to each opponent.
+{1}{R}, Discard a card: Draw a card. Activate this ability only if Glint-Horn Buccaneer is attacking.",4,Creature — Minotaur Pirate
+Zack Stella,5,,{4}{R},Sarkhan's Catharsis,,0.15,common,Sarkhan's Catharsis deals 5 damage to target player or planeswalker.,,Instant
+Zack Stella,2,,{1}{G},Vivien's Arkbow,,0.95,rare,"{X}, {T}, Discard a card: Look at the top X cards of your library. You may put a creature card with converted mana cost X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.",,Legendary Artifact
+Zack Stella,3,,{2}{B},Vizier of the Scorpion,1,0.2,uncommon,"When Vizier of the Scorpion enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Zombie tokens you control have deathtouch.",1,Creature — Zombie Wizard
+Zezhou Chen,1,,{G},Frilled Sandwalla,1,1.65,common,{1}{G}: Frilled Sandwalla gets +2/+2 until end of turn. Activate this ability only once each turn.,1,Creature — Lizard
+Zezhou Chen,3,,{3},Retributive Wand,,0.2,uncommon,"{3}, {T}: Retributive Wand deals 1 damage to any target.
+When Retributive Wand is put into a graveyard from the battlefield, it deals 5 damage to any target.",,Artifact
+Zezhou Chen,5,,{3}{U}{U},Yanling's Harbinger,2,0.84,rare,"Flying
+When Yanling's Harbinger enters the battlefield, you may search your library and/or graveyard for a card named Mu Yanling, Celestial Wind, reveal it, and put it into your hand. If you search your library this way, shuffle it.",4,Creature — Bird
+Zezhou Chen,5,,{4}{W},Bond of Discipline,,0.2,uncommon,Tap all creatures your opponents control. Creatures you control gain lifelink until end of turn.,,Sorcery
+Zezhou Chen,5,,{4}{B},Lazotep Behemoth,5,0.14,common,,4,Creature — Zombie Hippo
+Zezhou Chen,1,,{U},Wall of Runes,0,0.15,common,"Defender
+When Wall of Runes enters the battlefield, scry 1.",4,Creature — Wall
+Zezhou Chen,5,,{4}{G},Wardscale Crocodile,5,0.15,common,Hexproof (This creature can't be the target of spells or abilities your opponents control.),3,Creature — Crocodile
+Zoltan Boros,4,,{3}{R},Daggersail Aeronaut,3,0.15,common,"As long as it's your turn, Daggersail Aeronaut has flying.",2,Creature — Goblin
+Zoltan Boros,3,,{2}{R},Destructive Digger,3,0.15,common,"{3}, {T}, Sacrifice an artifact or land: Draw a card.",2,Creature — Goblin
+Zoltan Boros,2,,{1}{W},Devout Decree,,0.25,uncommon,Exile target creature or planeswalker that's black or red. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),,Sorcery
+Zoltan Boros,4,,{2}{B}{R},Ogre Siegebreaker,4,0.21,uncommon,{2}{B}{R}: Destroy target creature that was dealt damage this turn.,3,Creature — Ogre Berserker
+Zoltan Boros,2,,{1}{W},Raise the Alarm,,0.16,common,Create two 1/1 white Soldier creature tokens.,,Instant
+Zoltan Boros,5,,{4}{R},Rubblebelt Recluse,6,1.98,common,Rubblebelt Recluse attacks each combat if able.,5,Creature — Ogre Berserker
+Zoltan Boros,4,,{3}{R},Scampering Scorcher,1,0.2,uncommon,"When Scampering Scorcher enters the battlefield, create two 1/1 red Elemental creature tokens. Elementals you control gain haste until end of turn. (They can attack and {T} this turn.)",1,Creature — Elemental
+Zoltan Boros,4,,{2}{W}{W},Gideon's Battle Cry,,0.37,rare,"Put a +1/+1 counter on each creature you control. You may search your library and/or graveyard for a card named Gideon, the Oathsworn, reveal it, and put it into your hand. If you search your library this way, shuffle it.",,Sorcery
+Zoltan Boros,4,,{3}{R},Goblin Assault Team,4,0.15,common,"Haste
+When Goblin Assault Team dies, put a +1/+1 counter on target creature you control.",1,Creature — Goblin Warrior
+Zoltan Boros,3,,{2}{W},Makeshift Battalion,3,0.13,common,"Whenever Makeshift Battalion and at least two other creatures attack, put a +1/+1 counter on Makeshift Battalion.",2,Creature — Human Soldier
+Zoltan Boros,2,,{1}{W},Martyr for the Cause,2,0.14,common,"When Martyr for the Cause dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",2,Creature — Human Soldier
+Zoltan Boros,3,,{2}{B},Spark Reaper,2,0.15,common,"{3}, Sacrifice a creature or planeswalker: You gain 1 life and draw a card.",3,Creature — Zombie
+Zoltan Boros & Gabor Szikszai,0,,,Plains,,0.15,common,({T}: Add {W}.),,Basic Land — Plains
